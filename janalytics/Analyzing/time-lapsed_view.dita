@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="time-lapsed_view" xml:lang="en-us">
+<title>Time-lapsed view</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>The Time-lapsed view shows the relative duration between channels within the path. Use
+this view to determine how much time customers spend between channels in a path.</shortdesc>
+<conbody>
+<p>The total duration of each path is shown next to the path. The space between channels in the view
+indicates the amount of time that elapsed between channel interactions.</p>
+</conbody>
+</concept>

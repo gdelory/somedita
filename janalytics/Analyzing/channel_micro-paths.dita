@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="channel_micro-paths" xml:lang="en-us">
+<title>Channel micro-paths</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring &gt; Toggle Comment.-->
+<!--&lt;titlealts&gt;&lt;navtitle&gt;&lt;/navtitle&gt;&lt;searchtitle&gt;&lt;/searchtitle&gt;&lt;/titlealts&gt;-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>Micro-paths are the most common paths traveled by customers within a channel. Each
+micro-path shows the sequence of events that occurred within the channel.</shortdesc>
+<!--To optimize PDF retrievability, add prolog and indexing tags that help crystalize why users should be looking up this topic (purpose, task, and what they will learn)-->
+<!--&lt;prolog&gt;&lt;metadata&gt;&lt;keywords&gt;&lt;indexterm&gt;&lt;/indexterm&gt;&lt;/keywords&gt;&lt;/metadata&gt;&lt;/prolog&gt;-->
+<conbody>
+<p>Analyzing the channel micro-paths within a customer path can help you to answer the following
+types of business questions:</p>
+<ul>
+<li>
+<p>What were the most common customer behaviors that preceded a milestone customer behavior? What
+were the most common behaviors that customers exhibited after a milestone event?</p>
+</li>
+<li>
+<p>What were the most common micro-paths across all of the channels in the customer path? How did
+customers make the various channel switches within a customer path?</p>
+</li>
+</ul>
+<p>Examining micro-paths can help you to understand how company-initiated events are driving
+specific customer behaviors. These insights can help customer experience designers to develop the
+company-initiated events for storyboards in IBM Journey Designer.</p>
+<p>You can also easily identify negative customer behaviors, so that you can further investigate
+possible causes for these behaviors and recommend adjustments to improve the customer experience.
+Examples of negative behaviors include Cart Abandonment, Rejected Offer, Email Opt Out, and Struggle
+events.</p>
+<!--<p>The following figure shows example micro-paths for the Web channel. The Presented offer event is
+company-initiated; the other events in these micro-paths are customer-initiated. The Abandoned cart
+event is the only negative customer behavior in this example.</p>
+<fig id="fig_djx_mrf_jt">
+<title>Example Web channel micro-paths</title>
+<image href="../graphics/web_channel_micro-paths.jpg" placement="break" align="center"/>
+</fig>-->
+</conbody>
+</concept>

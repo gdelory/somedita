@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//IBM//DTD DITA IBM Topic//EN" "ibm-topic.dtd">
+<?Pub Sty _display FontColor="red"?><topic id="kc_welcome_janalytics" outputclass="kc_welcome" xml:lang="en-us">
+
+    <title outputclass="kc_welcome_header">
+    <tm trademark="IBM" tmtype="reg">IBM</tm> Journey Analytics documentation
+    </title>
+
+    <shortdesc outputclass="kc_welcome_header">
+    Welcome to the <tm trademark="IBM" tmtype="reg">IBM</tm> Journey Analytics documentation, where you can find information about how to access, administer, and use <tm trademark="IBM" tmtype="reg">IBM</tm> Journey Analytics. </shortdesc>
+    
+    <body/>   
+    <related-links>
+
+    <linklist outputclass="kc_welcome_box"><title outputclass="kc_welcome_category_head">Getting started</title>
+    <link href="Overview/Journey_Analytics_overview.dita" format="dita" scope="local"><linktext>IBM Journey Analytics overview</linktext></link>
+    <link href="Overview/key_concepts.dita" format="dita" scope="local"><linktext>Key concepts in Journey Analytics</linktext></link>
+    </linklist>
+
+    <linklist outputclass="kc_welcome_box"><title outputclass="kc_welcome_category_head">Key concepts</title>
+    <link href="Overview/customer_journeys.dita" scope="local" format="dita"><linktext>Customer journeys</linktext></link>
+    <link href="Overview/events.dita" scope="local" format="dita"><linktext>Events in Journey Analytics</linktext></link>
+    </linklist>
+    
+    <linklist outputclass="kc_welcome_box"><title outputclass="kc_welcome_category_head">Common tasks</title>
+    <link href="Reporting/creating_path_reports.dita" scope="local" format="dita"><linktext>Creating path reports</linktext></link>
+    <link href="Analyzing/accessing_path_views.dita" scope="local" format="dita"><linktext>Accessing path views</linktext></link>
+    <link href="Analyzing/accessing_expanded_channel_views.dita" scope="local" format="dita"><linktext>Accessing expanded channel views</linktext></link>
+    </linklist>
+
+    <linklist outputclass="kc_welcome_box"><title outputclass="kc_welcome_category_head">Troubleshooting and support</title>
+       <link href="https://support.ibmcloud.com" format="html" scope="external"><linktext>IBM Client Success Portal</linktext></link>
+    <link href="http://doc.unica.com/doc.php?passkey=Xxi4MyHtR3mI&amp;janalytics&amp;1_2_0&amp;en_us&amp;PRODUCT_INDEX" format="html" scope="external"><linktext>Videos</linktext></link>
+    </linklist>
+  
+
+</related-links>
+</topic>

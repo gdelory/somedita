@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN"
+ "ibm-concept.dtd">
+<?Pub Sty _display FontColor="red"?>
+<concept id="bookspecialnotice" xml:lang="en-us">
+<title>Note</title><?Pub Caret -2?>
+<conbody>
+<!--All books; however, only books that require safety and environmental notices should contain that cross-reference. -->
+<!--<p>IBM Digital Marketing and Analytics is the new generation of IBM
+Coremetrics products. See this table for details on new product naming.<table
+>
+<tgroup cols="2"><colspec colname="col1"/><colspec colname="col2"
+/>
+<thead>
+<row valign="bottom">
+<entry colname="col1">Previous Product Name</entry>
+<entry colname="col2">New Product Name</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1">IBM Coremetrics AdTarget</entry>
+<entry colname="col2">IBM AdTarget</entry>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics</entry>
+<entry colname="col2"></entry>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics Enterprise Analytics</entry
+>
+<entry colname="col2">IBM Digital Analytics Multisite</entry>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics Explore</entry>
+<entry colname="col2">IBM Digital Analytics Explore</entry>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics Export</entry>
+<entry colname="col2">IBM Digital Analytics Export</entry>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics Import</entry>
+<entry colname="col2">IBM Digital Analytics Import</entry>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics Intelligent Offer</entry>
+<entry colname="col2">IBM Digital Recommendations</entry>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics Lifecycle</entry>
+<entry colname="col2">IBM Digital Analytics Lifecycle</entry>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics LIVEmail</entry>
+<entry colname="col2">IBM LIVEmail</entry>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics Monitor</entry>
+<entry colname="col2">IBM Digital Analytics Monitor</entry>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics Search Marketing</entry>
+<entry colname="col2">IBM Search Marketing</entry>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics Social Analytics</entry>
+<entry colname="col2">IBM Digital Analytics for Social Media</entry
+>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics Tag Manager</entry>
+<entry colname="col2">IBM Digital Data Exchange</entry>
+</row>
+<row>
+<entry colname="col1">IBM Coremetrics Web Analytics</entry>
+<entry colname="col2">IBM Digital Analytics</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>-->
+<p>Before using this information and the product it supports, read
+the information in <xref href="booknotices_cm.dita"></xref>.</p>
+</conbody>
+<?tm 1359134992 0?>
+</concept>
+<?Pub *0000002769?>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN" "ibm-reference.dtd">
+<reference id="conversion" xml:lang="en-us">
+<title>Conversion</title>
+<shortdesc>Information that describes a conversion event.</shortdesc>
+<refbody>
+<section><p>Event code: <userinput>ibmconversion</userinput></p>
+<p>Publisher: <keyword conref="../../Common/common_names.dita#conrefs/core_long"/></p>
+</section>
+<section><title>Event attributes</title>
+<table frame="all" id="table_yjj_xwh_kt" pgwide="1">
+<tgroup cols="5">
+<colspec colname="c1" colnum="1" colwidth="2.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<colspec colname="c3" colnum="3" colwidth="2.0*"/>
+<colspec colname="c4" colnum="4" colwidth="3.0*"/>
+<colspec colname="c5" colnum="5" colwidth="1.0*"/>
+<thead>
+<row>
+<entry align="center">Attribute Name</entry>
+<entry align="center">Data Type</entry>
+<entry align="center">Example </entry>
+<entry align="center">Description</entry>
+<entry align="center">Required</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Action type</entry>
+<entry>number</entry>
+<entry> 2 </entry>
+<entry><p>1=Initiated</p>
+<p>2=Completed</p>
+</entry>
+<entry/>
+</row>
+<row>
+<entry>Category</entry>
+<entry>string</entry>
+<entry>Surveys</entry>
+<entry>Group events (eventNames) into categories. Example: create different types of credit apps
+(MasterCard, Visa) within a category called Credit Applications.</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Description </entry>
+<entry>string</entry>
+<entry>&lt;description></entry>
+<entry>Description of the published event to provide context.</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>eventId </entry>
+<entry>string</entry>
+<entry>Satisfaction Survey</entry>
+<entry>Unique ID to identify the type of event and enable lookup in the system.</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>eventName </entry>
+<entry>string</entry>
+<entry>Complete Conversion</entry>
+<entry>Name of the event as it appears in the user interface.</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>interactionId </entry>
+<entry>string</entry>
+<entry>&lt;number></entry>
+<entry>Identify a site visit. Example: a cookie ID identifies the visitor. The
+<userinput>interactionID</userinput> identifies the visit. An individual can be involved in multiple
+visits. Also called a session ID. </entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>points </entry>
+<entry>string</entry>
+<entry>&lt;number></entry>
+<entry>Each event ID (each unique conversion event tracked) can have its own point value.</entry>
+<entry/>
+</row></tbody>
+</tgroup>
+</table>
+</section></refbody>
+</reference>

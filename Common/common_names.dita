@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE topic PUBLIC "-//IBM//DTD DITA IBM Topic//EN"
+ "ibm-topic.dtd">
+<?Pub Inc?>
+<topic id="conrefs" translate="no" xml:lang="en-us">
+<title>conrefs</title>
+<body>
+<!--TRANSLATORS: Please do not translate any of the product names in this file.-->
+<lines>
+			<keyword id="core_long" translate="no"><tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics</keyword>
+                                               <keyword id="core_short" translate="no">Digital Analytics</keyword>
+          <keyword id="accelerator_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Accelerator</keyword>
+          <keyword id="accelerator_short" translate="no">Digital Analytics Accelerator</keyword>		
+          <keyword id="admin_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Admin</keyword>
+			<keyword id="admin_short" translate="no">Admin</keyword>
+			<keyword id="web_anal_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics</keyword>
+			<keyword id="web_anal_bundle_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics bundle</keyword>
+			<keyword id="web_anal_bundle_short" translate="no">Digital Analytics bundle</keyword>
+			<keyword id="web_anal_short" translate="no">Digital Analytics</keyword>
+			<keyword id="explore_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Explore</keyword>
+			<keyword id="explore_short" translate="no">Digital Analytics Explore</keyword>
+			<keyword id="imp_att_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Impression Attribution</keyword>
+			<keyword id="imp_att_short" translate="no">Impression Attribution</keyword>
+			<keyword id="lifecycle_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Lifecycle</keyword>
+			<keyword id="lifecycle_short" translate="no">Lifecycle</keyword>
+			<keyword id="multichan_anal_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Multichannel Analytics</keyword>
+			<keyword id="multichan_anal_short" translate="no">Multichannel Analytics</keyword>
+			<keyword id="social_anal_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics for Social Media</keyword>
+			<keyword id="social_anal_short" translate="no">Digital Analytics for Social Media</keyword>
+			<keyword id="livemail_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> LIVEmail</keyword>
+			<keyword id="livemail_short" translate="no">LIVEmail</keyword>
+			<keyword id="srch_mktng_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Search Marketing</keyword>
+			<keyword id="srch_mktng_short" translate="no">Search Marketing</keyword>
+			<keyword id="intel_off_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Recommendations</keyword>
+			<keyword id="intel_off_short" translate="no">Digital Recommendations</keyword>
+			<keyword id="intel_off_content_long" translate="no">
+			<tm tmtype="reg" trademark="IBM">IBM</tm> Content Recommendations</keyword>
+			<keyword id="intel_off_content_short" translate="no">Content Recommendations</keyword>
+			<keyword id="intel_off_product_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Product Recommendations</keyword>
+			<keyword id="intel_off_product_short" translate="no">Product Recommendations</keyword>
+			<keyword id="adtarget_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> AdTarget</keyword>
+			<keyword id="adtarget_short" translate="no">AdTarget</keyword>
+			<keyword id="benchmark_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Benchmark</keyword>
+			<keyword id="benchmark_short" translate="no">Benchmark</keyword>
+			<keyword id="ent_dash_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Enterprise Dashboard</keyword>
+			<keyword id="ent_dash_short" translate="no">Enterprise Dashboard</keyword>
+			<keyword id="monitor_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Monitor</keyword>
+			<keyword id="monitor_short" translate="no">Monitor</keyword>
+			<keyword id="import_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Import</keyword>
+			<keyword id="import_short" translate="no">Import</keyword>
+			<keyword id="export_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Export</keyword>
+                                              <keyword translate="no" id="tl-CXCloud">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Tealeaf on Cloud</keyword>
+			<keyword id="export_short" translate="no">Export</keyword>			
+<keyword id="ddf_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Digital Data Feed</keyword>
+			<keyword id="ddf_short" translate="no">Digital Data Feed</keyword>
+			<keyword id="connect_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Connect</keyword>
+			<keyword id="connect_short" translate="no">Connect</keyword>
+			<keyword id="enterprise_analytics_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Analytics Multisite</keyword>
+			<keyword id="enterprise_analytics_short" translate="no">Digital Analytics Multisite</keyword>
+			<keyword id="tagmanager_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Digital Data Exchange</keyword>
+			<keyword id="tagmanager_short" translate="no">Digital Data Exchange</keyword>
+			<keyword id="EPCMF">Enterprise Product Content Mapping File</keyword>
+			<keyword id="ECDF">Enterprise Category Definition File</keyword>
+			<keyword id="CDF">Category Definition File</keyword>
+			<keyword id="CDN">Content Delivery Network</keyword>
+			<keyword id="marketing_central_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Marketing Center</keyword>
+			<keyword id="marketing_central_short" translate="no">Marketing Center</keyword>
+			<keyword id="journey_analytics_long" translate="no">
+				<tm tmtype="reg" trademark="IBM">IBM</tm> Journey Analytics</keyword>
+			<keyword id="journey_analytics_short" translate="no">Journey Analytics</keyword>
+                                       <keyword id="perfinsights" translate="no">Performance Insights</keyword>
+			<keyword id="cxa_long" translate="no"><tm tmtype="reg" trademark="IBM">IBM</tm> Watson Customer Experience Analytics</keyword>
+			<keyword id="cxa_short" translate="no">Watson Customer Experience Analytics</keyword>
+	<!-- company is the company name, "IBM". Use this when you want to have IBM standalone. -->
+            <keyword id="company" translate="no"><tm tmtype="reg" trademark="IBM">IBM</tm></keyword>
+	<!-- brand is the company name with a trailing space for use before other conrefs. -->
+            <keyword id="brand" translate="no"><tm tmtype="reg" trademark="IBM">IBM</tm> </keyword>
+		</lines><?Pub Caret 162?>
+</body>
+<?tm 1341858279 23?>
+</topic>
+<?Pub *0000006113?>

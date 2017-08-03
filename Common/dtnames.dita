@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN"
+ "ibm-concept.dtd">
+<concept id="conref" xml:lang="en-us">
+<title>Product names for DemandTec</title>
+<shortdesc>These are keyword conrefs for product names for DemandTec.</shortdesc>
+<conbody>
+<ul>
+<li><keyword id="company"><tm tmtype="reg" trademark="IBM">IBM</tm></keyword></li>
+<li><keyword id="brand">IBM Omni-Channel Merchandising</keyword></li>
+<li><keyword id="promoOp">IBM Promotion Optimization</keyword></li>
+<li><keyword id="promoOpShort">Promotion Optimization</keyword></li>
+<li><keyword id="promoPln">IBM Promotion Planning</keyword></li>
+<li><keyword id="promoPlnShort">Promotion Planning</keyword></li>
+<li><keyword id="promoEx">IBM Promotion Execution</keyword></li>
+<li><keyword id="promoExShort">Promotion Execution</keyword></li>
+<li><keyword id="priceMgmt">IBM Price Management</keyword></li>
+<li><keyword id="priceMgmtShort">Price Management</keyword></li>
+<li><keyword id="priceOpt">IBM Price Optimization</keyword></li>
+<li><keyword id="priceOptShort">Price Optimization</keyword></li>
+<li><keyword id="pricePro">IBM Price and Promotion Optimization</keyword></li>
+<li><keyword id="priceProShort">Price and Promotion Optimization</keyword></li>
+<li><keyword id="markdown">IBM Markdown Optimization</keyword></li>
+<li><keyword id="markdownShort">Markdown Optimization</keyword></li>
+<li><keyword id="deal">IBM Deal Management</keyword></li>
+<li><keyword id="dealShort">Deal Management</keyword></li>
+<li><keyword id="si">IBM Shopper Insights</keyword></li>
+<li><keyword id="siShort">Shopper Insights</keyword></li>
+<li><keyword id="assort">IBM Assortment Optimization</keyword></li>
+<li><keyword id="assortShort">Assortment Optimization</keyword></li>
+<li><keyword id="bi">IBM Basket Insights</keyword></li>
+<li><keyword id="biShort">Basket Insights</keyword></li>
+<li><keyword id="advDeal">IBM Advanced Deal Management</keyword></li>
+<li><keyword id="advDealShort">Advanced Deal Management</keyword></li>
+<li><keyword id="itm">IBM OpenLink</keyword></li>
+<li><keyword id="itmShort">OpenLink</keyword></li>
+<li><keyword id="mc">IBM Master Calendar</keyword></li>
+<li><keyword id="mcShort">Master Calendar</keyword></li>
+<li><keyword id="ctp">IBM Customer Trade Planning</keyword></li>
+<li><keyword id="ctpShort">Customer Trade Planning</keyword></li>
+<li><keyword id="proof">IBM Proofing Manager</keyword></li>
+<li><keyword id="proofShort">Proofing Manager</keyword></li>
+<li><keyword id="cost">IBM Cost Change</keyword></li>
+<li><keyword id="costShort">Cost Change</keyword></li>
+<li><keyword id="promo">IBM Promotion Optimization and Management</keyword></li>
+<li><keyword id="promoShort">Promotion Optimization and Management</keyword></li>
+<li><keyword id="promoBook">IBM Promotion Planning, Optimization,
+and Execution</keyword></li><?Pub Caret 1?>
+<li><keyword id="retail">IBM Retail Promotion</keyword></li>
+<li><keyword id="retailShort">Retail Promotion</keyword></li>
+<li><keyword id="dp">IBM Dynamic Pricing</keyword></li>
+<li><keyword id="dpShort">Dynamic Pricing</keyword></li>
+</ul>
+</conbody>
+</concept>
+<?Pub *0000003090?>

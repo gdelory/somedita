@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="use_case_analyzing_paths" xml:lang="en-us">
+<title>Use case scenario: Analyzing customer paths that led to a purchase</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<!--Use Journey Analytics Marketing Business Case GA Hills.odp as source-->
+<shortdesc>A customer data analyst can use Journey Analytics to examine customer paths that led to
+the purchase of a product. These insights can be shared with customer experience designers, who can
+use them to design new customer experiences for future product launches.</shortdesc>
+<conbody>
+<p>Last year, CityCool, a developer of consumer technology, unveiled a new electronic watch called
+SleekFit. After a profitable market response and positive feedback from consumers, CityCool is ready
+to launch Sleekﬁt 2.0. Anthony, CityCool's customer experience analyst, wants to support the Sleekﬁt
+2.0 launch to help their emerging wearable products division meet their business goal of increasing
+revenue by 10%.</p>
+<p>Anthony logs in to <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> and enters criteria to
+focus his analysis. He uses the path analysis features of <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> to limit his analysis to
+the Top-Tier Buyers segment. He specifies that he wants to see only the top five paths, ranked by
+the most traveled.</p>
+<p>Next, Anthony defines an end anchor touch point to limit the results only to paths that ended in
+a cart purchase of the Sleekfit 1.0 product. He sets the look-back range to seven days to see all of
+the interactions that occurred during the seven days that led up to the purchase. Then, he runs the
+report.</p>
+<p>The results show the top five most-traveled paths that led to a purchase of Sleekfit 1.0, and the
+channels that customers used along the path. Anthony views a more detailed time-lapse analysis of a
+path. Although the average time elapsed between the promotional email and the cart purchase touch
+points was seven days, most Top Tier Buyers bought a Sleekfit 1.0 within two days of receiving an
+email with a Free Shipping offer. Anthony saves the path analysis and uses the Collaboration feature
+to share what he has learned with CityCool’s user experience design team. He can then use Journey
+Designer to recommend a storyboard template as the foundation for new customer experience
+designs.</p>
+</conbody>
+</concept>

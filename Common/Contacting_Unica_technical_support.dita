@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN"
+ "ibm-concept.dtd">
+<?Pub Sty _display FontColor="red"?>
+<?Pub Inc?>
+<concept id="Contactingtechnicalsupport" xml:lang="en-us">
+<title>Contacting <keyword conref="tokens.dita#tokens/u_Company"></keyword> technical
+support</title>
+<shortdesc>If you encounter a problem that you cannot resolve by consulting
+the documentation, your company's designated support contact can log
+a call with <keyword conref="tokens.dita#tokens/u_Company"></keyword> technical
+support. To ensure that your problem is resolved efficiently and successfully,
+you collect information before you log your call.</shortdesc>
+<prolog>
+<source>Shared widely</source>
+<metadata>
+<keywords><indexterm>technical support</indexterm></keywords>
+</metadata></prolog>
+<conbody>
+<p>If you are not a designated support contact at your company, contact
+your <keyword conref="tokens.dita#tokens/u_Company"></keyword> administrator
+for information.</p>
+<section><title>Information to gather</title><p>Before you contact <keyword
+conref="tokens.dita#tokens/u_Company"></keyword> technical support,
+gather the following information:</p><ul>
+<li><p>A brief description of the nature of your issue.</p></li>
+<li><p>Detailed error messages that you see when the issue occurs.</p></li>
+<li><p>Detailed steps to reproduce the issue.</p></li>
+<li><p>Related log files, session files, configuration files, and
+data files.</p></li>
+<li><p>Information about your product and system environment, which
+you can obtain as described in "System information."</p></li>
+</ul> </section>
+<section> <title>System information</title><p>When you call <keyword
+conref="tokens.dita#tokens/u_Company"></keyword> technical support,
+you might be asked to provide information about your environment.</p><p>If
+your problem does not prevent you from logging in, much of this information
+is available on the <wintitle>About</wintitle> page, which provides
+information about your <keyword conref="tokens.dita#tokens/u_Brand"></keyword> applications.</p><p>You
+can access the <wintitle>About</wintitle> page by selecting <uicontrol>Help
+> About</uicontrol>. <ph
+product="Campaign Detect DistMkt eMessage Interact IntHist Leads MktOps Optimize Platform PredInsight">If
+the <wintitle>About</wintitle> page is not accessible, you can obtain
+the version number of any <keyword conref="tokens.dita#tokens/u_Brand"></keyword> application
+by viewing the <filepath>version.txt</filepath> file that is located
+under the installation directory for each application. </ph><ph
+product="NetInsight CustInsight">If the <wintitle>About</wintitle> page
+is not accessible, you can use the command <cmdname>nettracker admin
+-buildinfo</cmdname> to obtain version information.</ph></p><?Pub
+Caret 367?> </section>
+<section id="a--f175df-113d4df9cad--7dfb"> <title>Contact information
+for <keyword conref="tokens.dita#tokens/u_Company"></keyword> technical
+support</title><p>For ways to contact <keyword
+conref="tokens.dita#tokens/u_Company"></keyword> technical support,
+see the <keyword conref="tokens.dita#tokens/u_Company"></keyword> Product
+Technical Support website: (<xref format="html"
+href="http://www.ibm.com/support/entry/portal/open_service_request"
+scope="external">http://www.ibm.com/support/entry/portal/open_service_request</xref>).</p> <note>To
+enter a support request, you must log in with an <keyword
+conref="tokens.dita#tokens/u_Company"></keyword> account. If possible,
+this account must be linked to your <keyword
+conref="../Common/tokens.dita#tokens/u_Company"></keyword> customer
+number. To learn more about associating your account with your <keyword
+conref="tokens.dita#tokens/u_Company"></keyword> customer number,
+see <menucascade><uicontrol>Support Resources > Entitled Software
+Support</uicontrol></menucascade> on the Support Portal.</note> </section>
+</conbody>
+<?tm 1355846756 0?>
+</concept>
+<?Pub *0000003990?>

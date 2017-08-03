@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="look_forward_and_look_backward_ranges" xml:lang="en-us">
+<title>Look-forward and look-backward ranges</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>If you define both a start and end point for a path, the path results include all
+interactions that occurred between the two touch points. However, if you define only a start point,
+you can specify how many days from the start point you want to look forward for interactions. If you
+define only an end point, you can specify how many days from the end point to look backward for
+interactions.</shortdesc>
+<conbody>
+<p>In the following example, an end touch point is defined as a Cart Purchase event that occurred
+from Feb. 1 to Feb. 14, with a look-back period of seven days. For each cart purchase within the
+event date range, the path includes interactions that occurred during the seven days before the
+purchase date.<fig>
+<title>Look-back range from an end touch point</title>
+<image href="../graphics/look-back_range.jpg" placement="break" align="center"
+alt="Look-back range example"/>
+</fig></p>
+<p>Notice that the seven-day look-back range for the February 3 purchase includes interactions that
+occurred before the start of the event date range.</p>
+<p>The default look-back and look-forward range is 14 days.</p>
+</conbody>
+</concept>

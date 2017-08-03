@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE topic PUBLIC "-//IBM//DTD DITA IBM Topic//EN"
+ "ibm-topic.dtd">
+<?Pub UDT _bookmark _target?>
+<?Pub Sty _display FontColor="red"?>
+<?Pub Inc?>
+<topic id="edition" xml:lang="en-us">
+<title> </title><?Pub Caret -2?>
+<body>
+<!--added the following paragraph on Friday, June 10, 2011 PER the legal department and approved by Hoa Dang-->
+<p><tm tmtype="reg" trademark="IBM">IBM</tm> Digital Marketing and
+Analytics is the new generation of <tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> products. See
+this table for details on new product naming.<table>
+<tgroup cols="2"><colspec colname="col1"/><colspec colname="col2"/>
+<thead>
+<row valign="bottom">
+<entry colname="col1">Previous Product Name</entry>
+<entry colname="col2">New Product Name</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> AdTarget</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> AdTarget</entry>
+</row>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> Benchmark</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> Digital
+Analytics Benchmark</entry>
+</row>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> Enterprise Analytics</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> Digital
+Analytics Multisite</entry>
+</row>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> Explore</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> Digital
+Analytics Explore</entry>
+</row>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> Import</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> Digital
+Analytics Import</entry>
+</row>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> Export</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> Digital
+Analytics Export</entry>
+</row>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> Intelligent
+Offer</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> Digital
+Recommendations</entry>
+</row>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> Lifecycle</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> Digital
+Analytics Lifecycle</entry>
+</row>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> LIVEmail</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> LIVEmail</entry>
+</row>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> Monitor</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> Digital
+Analytics Monitor</entry>
+</row>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> Social Analytics</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> Digital
+Analytics for Social Media</entry>
+</row>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> Tag Manager</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> Digital
+Data Exchange</entry>
+</row>
+<row>
+<entry colname="col1"><tm tmtype="reg" trademark="IBM">IBM</tm> <tm
+tmtype="reg" trademark="Coremetrics">Coremetrics</tm> Web Analytics</entry>
+<entry colname="col2"><tm tmtype="reg" trademark="IBM">IBM</tm> Digital
+Analytics</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p>
+<p>The documentation distributed with the <keyword
+conref="common_names.dita#conrefs/core_long"><tm tmtype="reg"
+trademark="Coremetrics">Coremetrics</tm></keyword> products is confidential
+and proprietary to <tm tmtype="reg" trademark="IBM">IBM</tm> and as
+such is subject to the provisions of any confidentiality agreement
+executed between the parties.  Regardless of the specific provisions
+of any such confidentiality agreement, the parties hereby agree to
+treat the referenced documentation as the confidential information
+of <tm tmtype="reg" trademark="IBM">IBM</tm> and further agree not
+to distribute such documentation to any third party or to copy such
+documentation except as expressly permitted in any license agreement
+between the parties pertaining to such products.</p>
+<section><p>Licensed Materials - Property of <tm tmtype="reg"
+trademark="IBM">IBM</tm></p></section>
+</body>
+<?tm 1359134993 49?>
+</topic>
+<?Pub *0000005386?>

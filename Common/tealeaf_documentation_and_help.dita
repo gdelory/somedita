@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN"
+ "ibm-reference.dtd">
+<?Pub Sty _display FontColor="red"?>
+<?Pub Inc?>
+<reference id="tealeaf_documentation_and_help" xml:lang="en-us">
+<title><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/> documentation and
+help</title>
+<shortdesc><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/> provides documentation
+and help for users, developers, and administrators.</shortdesc>
+<refbody>
+<section><title>Viewing product documentation</title><p>All <keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/> product documentation is
+available at the following website:</p><p><xref
+href="https://tealeaf.support.ibmcloud.com/" scope="external"></xref></p><p>Use
+the information in the following table to view the product documentation
+for <tm tmtype="reg" trademark="IBM">IBM</tm> <tm tmtype="reg"
+trademark="Tealeaf">Tealeaf</tm>:<table><title>Getting help</title>
+<desc><p outputclass="summary">This is a two-columned table that lists
+the product documentation in the first column, and instructions for
+viewing the documentation in the second column.</p></desc>
+<tgroup cols="2"><colspec colname="col1"/><colspec colname="col2"/>
+<thead>
+<row valign="bottom">
+<entry colname="col1">To view...</entry>
+<entry colname="col2">Do this...</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1">Product documentation</entry>
+<entry colname="col2">On the <keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+portal, go to <menucascade>
+<uicontrol>?</uicontrol>
+</menucascade> > <menucascade>
+<uicontrol>Product Documentation</uicontrol>
+</menucascade>.</entry>
+</row>
+<row>
+<entry colname="col1">IBM Tealeaf Knowledge Center</entry><?Pub Caret -1?>
+<entry colname="col2">On the <keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+portal, go to <menucascade>
+<uicontrol>?</uicontrol>
+</menucascade> > <menucascade>
+<uicontrol>Product Documentation</uicontrol>
+</menucascade> and select <cite><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+Customer Experience in the ExperienceOne Knowledge Center</cite>.</entry>
+</row>
+<row>
+<entry colname="col1">Help for a page on the <keyword
+conref="../Common/tealeaf_names.dita#conref/tl-brand"/> Portal</entry>
+<entry colname="col2">On the <keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+portal, go to <menucascade>
+<uicontrol>?</uicontrol>
+</menucascade> > <menucascade>
+<uicontrol>Help for This Page</uicontrol>
+</menucascade>.</entry>
+</row>
+<row>
+<entry colname="col1">Help for <keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+<keyword conref="../Common/tealeaf_names.dita#conref/tl-PCA-acro"/></entry>
+<entry colname="col2">On the <keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+<keyword conref="../Common/tealeaf_names.dita#conref/tl-PCA-acro"/> web interface, select
+<uicontrol>Guide</uicontrol> to access the <cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX PCA Manual</cite>.</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p></section>
+<section><title>Available documents for <keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+products</title><p> The following table is a list of available documents for all <keyword
+conref="../Common/tealeaf_names.dita#conref/tl-brand"/> products:<table>
+<title>Available documentation for <keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+products</title>
+<desc>
+<p outputclass="summary">This is a two-columned table that lists <keyword
+conref="../Common/tealeaf_names.dita#conref/tl-brand"/> products in the first column, and lists the
+available documents for the product in the second column.</p>
+</desc>
+<tgroup cols="2">
+<colspec colname="col1"/>
+<colspec colname="col2"/>
+<thead>
+<row valign="bottom">
+<entry colname="col1"><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+products</entry>
+<entry colname="col2">Available documents</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colname="col1"><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+<keyword conref="../Common/tealeaf_names.dita#conref/tl-CX"/></entry>
+<entry colname="col2">
+<ul>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> Customer Experience Overview Guide</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Client Framework Data Integration
+Guide</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Configuration Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Cookie Injector Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Databases Guide</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Event Manager Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Glossary</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Installation Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX PCA Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX PCA Release Notes</cite></li>
+</ul>
+</entry>
+</row>
+<row>
+<entry colname="col1"><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+<keyword conref="../Common/tealeaf_names.dita#conref/tl-CX"/></entry>
+<entry colname="col2">
+<ul>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX RealiTea Viewer Client Side Capture
+Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX RealiTea Viewer User Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Release Notes</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Release Upgrade Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Support Troubleshooting FAQ</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Troubleshooting Guide</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX UI Capture j2 Guide</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX UI Capture j2 Release Notes</cite></li>
+</ul>
+</entry>
+</row>
+<row>
+<entry colname="col1"><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+<keyword conref="../Common/tealeaf_names.dita#conref/tl-cxImpact"/></entry>
+<entry colname="col2">
+<ul>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxImpact Administration Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxImpact User Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxImpact Reporting Guide</cite></li>
+</ul>
+</entry>
+</row>
+<row>
+<entry colname="col1"><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+cxConnect</entry>
+<entry colname="col2">
+<ul>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxConnect for Data Analysis Administration
+Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxConnect for Voice of Customer Administration
+Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxConnect for Web Analytics Administration
+Manual</cite></li>
+</ul>
+</entry>
+</row>
+<row>
+<entry colname="col1"><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+<keyword conref="../Common/tealeaf_names.dita#conref/tl-cxOverstat"/></entry>
+<entry colname="col2"><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxOverstat User Manual</cite></entry>
+</row>
+<row>
+<entry colname="col1"><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+<keyword conref="../Common/tealeaf_names.dita#conref/tl-cxReveal"/></entry>
+<entry colname="col2">
+<ul>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxReveal Administration Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxReveal API Guide</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxReveal User Manual</cite></li>
+</ul>
+</entry>
+</row>
+<row>
+<entry colname="col1"><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+<keyword conref="../Common/tealeaf_names.dita#conref/tl-cxVerify"/></entry>
+<entry colname="col2">
+<ul>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxVerify Installation Guide</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxVerify User's Guide</cite></li>
+</ul>
+</entry>
+</row>
+<row>
+<entry colname="col1"><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+<keyword conref="../Common/tealeaf_names.dita#conref/tl-cxView"/></entry>
+<entry colname="col2"><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> cxView User's Guide</cite></entry>
+</row>
+<row>
+<entry colname="col1"><keyword conref="../Common/tealeaf_names.dita#conref/tl-brand"/>
+<keyword conref="../Common/tealeaf_names.dita#conref/tl-CX-Mobile"/></entry>
+<entry colname="col2">
+<ul>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Mobile Android Logging Framework
+Guide</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> Android Logging Framework Release
+Notes</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Mobile Administration Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Mobile User Manual</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> CX Mobile iOS Logging Framework Guide</cite></li>
+<li><cite><tm tmtype="reg" trademark="IBM">IBM</tm>
+<tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm> iOS Logging Framework Release Notes</cite></li>
+</ul>
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table></p></section>
+</refbody>
+<?tm 1417541091 86?>
+</reference>
+<?Pub *0000011668?>

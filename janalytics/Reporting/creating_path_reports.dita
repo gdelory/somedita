@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//IBM//DTD DITA IBM Task//EN" "ibm-task.dtd">
+<task id="creating_path_reports" xml:lang="en-us">
+<title>Creating path reports</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>Create a path report request to specify the criteria for the customer paths that you want
+to analyze.</shortdesc>
+<!--To optimize PDF retrievability, add prolog and indexing tags that help crystalize why users should be looking up this topic (purpose, task, and what they will learn)-->
+<!--<prolog><metadata><keywords><indexterm></indexterm></keywords></metadata></prolog>-->
+<taskbody>
+<prereq>For information about the report criteria you must specify to create a path report, see
+<xref href="path_reports.dita"/>. </prereq>
+<steps>
+<step>
+<cmd>Click the <uicontrol><keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_long"/></uicontrol> link in the
+title bar to open the <wintitle>Path Analysis</wintitle> page.</cmd>
+</step>
+<step>
+<cmd>Select a segment from the <uicontrol>Segment</uicontrol> list, or accept the default value of
+<uicontrol>All customers</uicontrol>.</cmd>
+</step>
+<step>
+<cmd>Select a path ranking option from the <uicontrol>Report options</uicontrol> list.</cmd>
+</step>
+<step id="step4">
+<cmd>Click <uicontrol>Start</uicontrol> or <uicontrol>End</uicontrol> touch point on the
+<wintitle>Path Analysis</wintitle> page to define a start or end  touch point for the path.</cmd>
+</step>
+<step>
+<cmd>Select an event to associate with the touch point.</cmd>
+</step>
+<step importance="optional">
+<cmd>To view details about the event, including event attributes, provider, and publisher, open the
+<uicontrol>Details</uicontrol> box.</cmd>
+</step>
+<step>
+<cmd>Open the <uicontrol>Event Options</uicontrol> box and specify the date range that you want to
+report on for this event.</cmd>
+</step>
+<step importance="optional">
+<cmd>Add one or more filter conditions to the event.</cmd>
+<substeps>
+<substep>
+<cmd>Click <uicontrol>Add filter</uicontrol>.</cmd>
+</substep>
+<substep>
+<cmd>Select an event attribute and operator from the lists.</cmd>
+</substep>
+<substep>
+<cmd>Enter a value to filter on.</cmd>
+</substep>
+<substep>
+<cmd>If you want to add another filter criteria, click <uicontrol>Add another
+criterion</uicontrol>.</cmd>
+</substep>
+<substep>
+<cmd>Select the filtering logic that you want to use from the list at the top of the window:</cmd>
+<info>
+<ul>
+<li><uicontrol>Satisfy all below</uicontrol> applies AND logic to the filter processing. Events must
+meet all of the listed filter conditions to be included in the results.</li>
+<li><uicontrol>Satisfy any below</uicontrol> applies OR logic to the filter processing. Events that
+meet any of the listed filter conditions are included in the results.</li>
+</ul>
+</info>
+</substep>
+<substep>
+<cmd>When you are finished adding filters, click <uicontrol>Done</uicontrol>.</cmd>
+</substep>
+</substeps>
+</step>
+<step id="step9">
+<cmd>Click <uicontrol>Add touch point</uicontrol>.</cmd>
+</step>
+<step importance="optional">
+<cmd>To define another touch point, repeat steps 4 - 9 for the undefined touch point.</cmd>
+</step>
+<step>
+<cmd>Click the look-back or look-forward link on the path diagram to specify the number of days in
+the range, or accept the default range of 14 days.</cmd>
+<info>
+<p>
+<note>If your path includes both a start point and an end point, you do not need to specify a
+look-back or look-forward range. The results for paths that have both touch points defined include
+all interactions that occurred between the two touch points.</note>
+</p>
+</info>
+<substeps>
+<substep>
+<cmd>Enter the number of days to look back or forward in the box.</cmd>
+</substep>
+<substep>
+<cmd>Click <uicontrol>Done</uicontrol>.</cmd>
+</substep>
+</substeps>
+</step>
+<step>
+<cmd>Click <uicontrol>Run report</uicontrol>.</cmd>
+<stepresult>
+<p>You can access completed reports from the <uicontrol>Report status</uicontrol> menu.</p>
+<p>If your report returned no data, you can modify the event options and rerun the report.</p>
+</stepresult>
+</step>
+</steps>
+</taskbody>
+</task>

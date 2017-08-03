@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="touch_points_interactions_and_events" xml:lang="en-us">
+<title>Touch points, interactions, and events</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>Touch points are points on a path where customers and an organization make contact, or
+attempt to make contact. Each touch point is associated with a specific interaction, called an
+event.</shortdesc>
+<conbody>
+<p>The customer paths in <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> reports can include any
+events that are shared with <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> by event publishers
+through IBM Universal Behavior Exchange (UBX).</p>
+<p>For each channel in a path, you can gain a deeper understanding of how customers interacted in
+the channel by comparing the different events that occurred in the channel. Event types vary
+according to channel, and they can be initiated by customers or by your company. Examples of
+customer-initiated events include Cart Purchase, Conversion, and Email Open. <!--Examples of
+company-initiated events include Sent Email, Presented Offer, and Sent Reminder.--></p>
+<p>Looking at the events that are associated with each channel in a customer path can help you
+answer the following types of questions:</p>
+<ul>
+<li>
+<p>What are the most common customer behaviors within a channel? For example, when customers visit
+your website, what do they do most often?</p>
+</li>
+<li>
+<p>What are the most common events across all channels in the path? For example, if customers
+experience a struggle in the web channel, do they also experience struggles in other channels?</p>
+</li>
+<li>
+<p>For an event that can occur in more than one channel, is it more common in one channel than in
+another? For example, do more customers watch a video on your website than on your mobile
+application?</p>
+</li>
+</ul>
+<p>For more information about events, see the IBM Universal Behavior Exchange documentation.</p>
+<!--Add xref to UBX doc?--></conbody>
+</concept>

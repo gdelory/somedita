@@ -1,0 +1,12 @@
+# This is a new style list file that requires value pairs
+branch=SaaS
+kcmap=janalytics_KC_map.ditamap
+kcmapfolder=janalytics
+collectionDir=janalytics
+ditamap=/IS/EMM/SaaS/janalytics/janalytics_KC_map.ditamap
+ditaval=KCproperties.ditaval
+ditaval=janalytics.ditaval
+ditaval=Rev.ditaval
+ditaval=AtRisk.ditaval
+ditaval=janalytics.lst
+output=XHTML

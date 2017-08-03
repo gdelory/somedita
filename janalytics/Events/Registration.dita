@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN" "ibm-reference.dtd">
+<reference id="reference_s3d_qjn_mt" xml:lang="en-us">
+<title>Registration</title>
+<shortdesc>Information to describe some form of registration on a web site.</shortdesc>
+<refbody>
+<section>
+<p>Event code: <userinput>ibmregistration</userinput></p>
+<p>Publisher: <keyword conref="../../Common/common_names.dita#conrefs/core_long"/></p>
+</section>
+<section>
+<title>Event attributes</title>
+<table frame="all" id="table_tsm_wjn_mt">
+<tgroup cols="5">
+<colspec colname="c1" colnum="1" colwidth="2.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<colspec colname="c3" colnum="3" colwidth="2.0*"/>
+<colspec colname="c4" colnum="4" colwidth="3.0*"/>
+<colspec colname="c5" colnum="5" colwidth="1.0*"/>
+<thead>
+<row>
+<entry align="center">Attribute Name</entry>
+<entry align="center">Data Type</entry>
+<entry align="center">Example </entry>
+<entry align="center">Description</entry>
+<entry align="center">Required</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>eventName </entry>
+<entry> string </entry>
+<entry>Product View</entry>
+<entry>Name of the event as it appears in the user interface.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>Registered city</entry>
+<entry>string</entry>
+<entry>London</entry>
+<entry>City.</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>Registered country</entry>
+<entry>string</entry>
+<entry>Mexico</entry>
+<entry>Country or region</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>Registered state</entry>
+<entry>string</entry>
+<entry>CO</entry>
+<entry>State or province</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>Registered zip code</entry>
+<entry>string</entry>
+<entry/>
+<entry>Zip code or postal code</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>Registration attribute #44</entry>
+<entry/>
+<entry>Email, Account, Purchase</entry>
+<entry>Registration type</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>Registration attribute #45</entry>
+<entry/>
+<entry>Y, N or Unknown</entry>
+<entry>Contact Consent</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>Registration attribute #46</entry>
+<entry>number</entry>
+<entry>20160601</entry>
+<entry>Opt-in Date</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>Registration date</entry>
+<entry>string</entry>
+<entry>&lt;timestamp></entry>
+<entry>The date and time the registration was created or last updated.</entry>
+<entry align="center">Yes</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</refbody>
+</reference>

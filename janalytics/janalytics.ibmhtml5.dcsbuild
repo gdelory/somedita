@@ -1,0 +1,8 @@
+common.operation=transform
+common.input.type=filenet
+common.input.file=/DitaToolsTeam/Guillaume/janalytics_KC_map.ditamap
+common.output.type=gsa
+common.output.path=/gsa/pokgsa/projects/a/ahe01_kc/projects/wwwtest/content/knwctr/is/emm/janalytics_test
+transform.output.type=ibmhtml5
+ditaot.args.gen.task.lbl=YES
+ditaot.args.draft=no

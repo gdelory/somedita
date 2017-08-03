@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN"
+ "ibm-reference.dtd">
+<?Pub Sty _display FontColor="red"?>
+<?Pub Inc?>
+<reference id="support" xml:lang="en-us">
+<title>Support</title><?Pub Caret -2?>
+<refbody>
+<section><title>Support Center</title><p>The <keyword conref="common_names.dita#conrefs/core_long"/> Support site can be found at
+<codeph><xref href="https://support.ibmcloud.com" format="html" scope="external">
+https://support.ibmcloud.com</xref></codeph> or by clicking the Support link in the application menu
+bar.</p><!--<fig><image href="../graphics/support_supportcenter.JPG"><alt>The <keyword
+conref="common_names.dita#conrefs/core_short"></keyword> Support
+Center main window</alt></image></fig>--><p>The Support Center Site
+contains the following:<ul>
+<li><b>A searchable knowledge base</b> to answer questions and provide
+instant access to essential documents such as implementation guides,
+metrics glossaries, user guides, release notes, and more.</li>
+<li><b>Educational tools</b> such as web-based trainings and archived
+webinars.</li>
+<li><b>Marketing information</b> including case studies, white papers,
+and upcoming events such as the Client Summit.</li>
+<li><b>Notifications</b> from Support.</li>
+<li><b>Issue tracking</b> from the creation of a ticket through its
+resolution, which provides complete insight into the status of your
+inquiries.</li>
+<li><b>Feedback</b> so that you can offer suggestions for improving
+the support site. (Send feedback about the <keyword
+conref="common_names.dita#conrefs/core_long"></keyword> applications
+to cm_feedback@us.ibm.com).</li>
+<li><b>Chat</b> so that you can reach one of our Best Practices representatives
+right away.</li>
+</ul></p></section>
+</refbody>
+<?tm 1397679566 0?>
+</reference>
+<?Pub *0000001809?>

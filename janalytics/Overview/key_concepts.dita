@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="customer_journey_concepts" xml:lang="en-us">
+<title>Key concepts in <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/></title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>Understanding the key concepts that are used in <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> can help you to make the
+best use of its customer path analysis features.</shortdesc>
+</concept>

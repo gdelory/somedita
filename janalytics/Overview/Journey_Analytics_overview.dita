@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="Journey_Analytics_overview" xml:lang="en-us">
+<title><keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_long"/>
+overview</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc><keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_long"/>
+provides a visual representation of the paths that customers take as they interact with your brand
+across multiple interactions and channels. The insights that you gain from customer path analysis
+can help you to improve business outcomes and deliver consistent and satisfying customer
+experiences.</shortdesc>
+<conbody>
+<p> Many customer interactions occur during multi-event, multi-channel journeys. For example, a
+customer might see an item in a store, then check comparable products and prices on websites by
+using a smartphone, ask for advice from family and friends on a social network, and then finally
+make a purchase by using a tablet. <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> helps you to understand
+this customer journey as a whole, without having to use separate tools to examine channels. You can
+then share your insights with customer experience designers, which can help them to design and
+deliver more consistent customer experiences that support your business goals and drive customer
+loyalty.</p>
+<p>Drill into a journey path to see which channels and digital assets your customers interact with.
+You can determine which paths they take, which customers complete conversions such as high-value
+purchases, and where they exit the interaction.</p>
+<p>You can study the top paths customers travel in various ways, including the most traveled paths,
+the shortest paths, and the paths that generate the most revenue. This analysis can help you to
+determine whether your current marketing programs are influencing customer behavior in the ways that
+you expect. These insights can help you to deliver customer experiences that increase conversions,
+shorten the buying cycle, and deliver better user experiences across all channels.</p>
+</conbody>
+</concept>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//IBM//DTD DITA IBM Task//EN" "ibm-task.dtd">
+<task id="visualizing_customer_paths" xml:lang="en-us">
+<title>Visualizing customer paths</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc><keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/>
+provides three options for visualizing the multi-channel customer paths in your reports: Separated
+view, Time-lapsed view, and Merged view. All three views show the metrics results for each
+path.</shortdesc>
+</task>

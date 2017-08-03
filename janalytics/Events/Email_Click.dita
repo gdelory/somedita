@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN" "ibm-reference.dtd">
+<reference id="email_click" xml:lang="en-us">
+<title>Email Click</title>
+<shortdesc>Information that describes an individual opening an email that relates to a product or
+brand.</shortdesc>
+<refbody>
+<section>
+<p>Event code: <userinput>emailOpen</userinput></p>
+<p>Publisher: <keyword conref="../../Common/common_names.dita#conrefs/core_long"/></p>
+</section>
+<section>
+<title>Event attributes</title>
+<table frame="all" id="table_yjj_xwh_kt" pgwide="1">
+<tgroup cols="5">
+<colspec colname="c1" colnum="1" colwidth="2.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<colspec colname="c3" colnum="3" colwidth="2.0*"/>
+<colspec colname="c4" colnum="4" colwidth="3.0*"/>
+<colspec colname="c5" colnum="5" colwidth="1.0*"/>
+<thead>
+<row>
+<entry align="center">Attribute Name</entry>
+<entry align="center">Data Type</entry>
+<entry align="center">Example </entry>
+<entry align="center">Description</entry>
+<entry align="center">Required</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>clickName</entry>
+<entry>string</entry>
+<entry>Click here for great deals!</entry>
+<entry>The user defined name of a hyperlink for a click or clickstream event (e.g. Download White
+Paper)</entry>
+<entry/>
+</row>
+<row>
+<entry>eventName</entry>
+<entry>string</entry>
+<entry>Email Click</entry>
+<entry>Name of the event as it appears in <keyword
+conref="../../Common/common_names.dita#conrefs/cxa_long"/></entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>messageId</entry>
+<entry>number</entry>
+<entry>1211943</entry>
+<entry>The unique identifier of the sent message associated with the event.</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>subjectLine</entry>
+<entry>string</entry>
+<entry>Great Deals</entry>
+<entry>
+<p>Subject line of the message</p>
+<p/>
+</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>URL</entry>
+<entry>URL</entry>
+<entry/>
+<entry>The URL of a hyperlink for a click or clickstream event.</entry>
+<entry/>
+</row>
+
+</tbody>
+</tgroup>
+</table>
+</section>
+</refbody>
+</reference>

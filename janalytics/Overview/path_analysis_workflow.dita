@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="path_analysis_workflow" xml:lang="en-us">
+<title>Path analysis workflow</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring &gt; Toggle Comment.-->
+<!--&lt;titlealts&gt;&lt;navtitle&gt;&lt;/navtitle&gt;&lt;searchtitle&gt;&lt;/searchtitle&gt;&lt;/titlealts&gt;-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc><keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/>
+provides path analysis features that help you to focus only on the customer paths that are most
+relevant to your business goals.</shortdesc>
+<conbody>
+<p>The following steps are an overview of the workflow for using <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> to analyze customer
+paths.</p>
+<ol>
+<li><xref href="../Reporting/path_reports.dita">Determine the criteria</xref> of the paths you want
+to analyze, depending upon your business objectives. You can focus on <!--particular market segments,-->
+key customer behaviors and specific date ranges.</li>
+<li><xref href="../Reporting/creating_path_reports.dita">Create a path report</xref> that specifies
+the criteria you want to use.
+<!--You can save your path requests as templates that you can modify and reuse.--></li>
+<li><xref href="../Analyzing/visualizing_customer_paths.dita">Visualize customer paths</xref>.
+Access the results of your path request and choose from various views of the paths. Use these views
+to identify patterns and trends that can help you to understand how customers are engaging
+with your organization or brand.</li>
+<li><xref href="../Analyzing/viewing_customer_behavior_within_a_channel.dita">View customer behavior
+within channels</xref>. See how customers interact with your organization within each of the
+channels in a path.</li>
+<li>Share insights from your path analysis with colleagues.</li>
+</ol>
+</conbody>
+</concept>

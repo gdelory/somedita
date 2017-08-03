@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is a map file generated from an ibmbook ditamap using IBMBook2KCMap.xsl and is intended for KC output--><!DOCTYPE map
+  PUBLIC "-//IBM//DTD DITA IBM Map//EN" "ibm-map.dtd">
+<map xml:lang="en-us" product="SSWJ5W"
+     operatingsystem="AIX HP HPUX linux solaris WIN">
+   <title> 			  			  		  			 				
+				IBM Journey Analytics 			 		</title>
+<topicref href="kc_welcome_janalytics.dita"/>   
+ <topicref href="Overview/overview_container.dita" navtitle="Overview" activity="learn">
+      <topicref href="Overview/Journey_Analytics_overview.dita"
+                navtitle="IBM Journey Analytics overview"
+                activity="learn">
+         <topicref href="Overview/key_concepts.dita" navtitle="Key concepts in Journey Analytics"
+                   activity="learn">
+            <topicref href="Overview/customer_journeys.dita" navtitle="Customer journeys"
+                      activity="learn"/>
+            <topicref href="Overview/touch_points_interactions_and_events.dita"
+                      navtitle="Touch points, interactions, and events"
+                      activity="learn"/>
+         </topicref>
+         <topicref href="Overview/path_analysis_workflow.dita" navtitle="Path analysis workflow"
+                   activity="learn"/>
+         <topicref href="Overview/use_case_analyzing_customer_paths.dita"
+                   navtitle="Use case: Analyzing customer paths that led to a purchase"
+                   activity="learn"/>
+      </topicref>
+      <topicref href="Overview/supported_browsers.dita" navtitle="Supported browsers"
+                activity="learn"/>
+   </topicref>
+   <topicref href="Reporting/reporting_container.dita" navtitle="Analyzing" activity="learn">
+      <topicref href="Reporting/path_reports.dita" navtitle="Path reports" activity="learn">
+         <topicref href="Reporting/market_segments.dita" navtitle="Market segments"
+                   activity="learn"/>
+         <topicref href="Reporting/report_options.dita" navtitle="Report options" activity="learn"/>
+         <topicref href="Reporting/start_and_end_touch_points.dita"
+                   navtitle="Start and end touch points"
+                   activity="learn"/>
+         <topicref href="Reporting/look_forward_and_look_backward_ranges.dita"
+                   navtitle="Look-forward and look-backward ranges"
+                   activity="learn"/>
+         <topicref href="Reporting/creating_path_reports.dita" navtitle="Creating path reports"
+                   activity="learn"/>
+         <topicref href="Reporting/modifying_reports_that_return_no_data.dita"
+                   navtitle="Modifying reports that return no data"
+                   activity="learn"/>
+      </topicref>
+   </topicref>
+   <topicref href="Analyzing/analyzing_container.dita" navtitle="Analyzing" activity="learn">
+      <topicref href="Analyzing/visualizing_customer_paths.dita"
+                navtitle="Visualizing customer paths"
+                activity="learn">
+         <topicref href="Analyzing/separated_view.dita" navtitle="Separated view" activity="learn"/>
+         <topicref href="Analyzing/time-lapsed_view.dita" navtitle="Time-lapsed view"
+                   activity="learn"/>
+         <topicref href="Analyzing/merged_view.dita" navtitle="Merged view" activity="learn"/>
+         <topicref href="Analyzing/accessing_path_views.dita" navtitle="Accessing path views"
+                   activity="learn"/>
+      </topicref>
+      <topicref href="Analyzing/viewing_customer_behavior_within_a_channel.dita"
+                navtitle="Viewing customer behavior within a channel"
+                activity="learn">
+         <topicref href="Analyzing/aggregate_views_of_channel_data.dita"
+                   navtitle="Aggregate views of channel data"
+                   activity="learn"/>
+         <topicref href="Analyzing/channel_micro-paths.dita" navtitle="Channel micro-paths"
+                   activity="learn"/>
+         <topicref href="Analyzing/accessing_expanded_channel_views.dita"
+                   navtitle="Accessing expanded channel views"
+                   activity="learn"/>
+      </topicref>
+   </topicref>
+   <reltable>
+      <relheader>
+         <relcolspec type=""/>
+         <relcolspec type=""/>
+      </relheader>
+      <relrow>
+         <relcell>
+            <topicref href="Overview/path_analysis_workflow.dita" navtitle="Path analysis workflow"
+                      activity="learn"/>
+         </relcell>
+         <relcell>
+            <topicref href="Reporting/path_reports.dita" navtitle="Path reports" activity="learn"/>
+            <topicref href="Reporting/creating_path_reports.dita" navtitle="Creating path reports"
+                      activity="learn"/>
+            <topicref href="Analyzing/visualizing_customer_paths.dita"
+                      navtitle="Visualizing customer paths"
+                      activity="learn"/>
+            <topicref href="Analyzing/viewing_customer_behavior_within_a_channel.dita"
+                      navtitle="Viewing customer behavior within a channel"
+                      activity="learn"/>
+         </relcell>
+      </relrow>
+      <relrow>
+         <relcell>
+            <topicref href="Reporting/creating_path_reports.dita" navtitle="Creating path reports"
+                      activity="learn"/>
+         </relcell>
+         <relcell>
+            <topicref href="Reporting/modifying_reports_that_return_no_data.dita"
+                      navtitle="Modifying reports that return no data"
+                      activity="learn"/>
+         </relcell>
+      </relrow>
+      <relrow>
+         <relcell>
+            <topicref href="Analyzing/accessing_path_views.dita" navtitle="Accessing path reports"
+                      activity="learn"/>
+         </relcell>
+         <relcell>
+            <topicref href="Analyzing/separated_view.dita" navtitle="Separated view" activity="learn"/>
+            <topicref href="Analyzing/time-lapsed_view.dita" navtitle="Time-lapsed view"
+                      activity="learn"/>
+            <topicref href="Analyzing/merged_view.dita" navtitle="Merged view" activity="learn"/>
+         </relcell>
+      </relrow>
+   </reltable>
+</map>

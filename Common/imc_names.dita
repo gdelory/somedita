@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE topic PUBLIC "-//IBM//DTD DITA IBM Topic//EN"
+ "ibm-topic.dtd">
+<?Pub Inc?>
+<topic id="IMCconrefs" translate="no" xml:lang="en-us">
+<title>conrefs</title>
+<body>
+<!--TRANSLATORS: Please do not translate any of the product names in this file.-->
+<lines>	<!-- company is the company name, "IBM". Use this when you want to have IBM standalone. -->
+            <keyword id="company" translate="no"><tm tmtype="reg" trademark="IBM">IBM</tm></keyword>
+	<!-- brand is the company name with a trailing space for use before other conrefs. -->
+            <keyword id="brand" translate="no"><tm tmtype="reg" trademark="IBM">IBM</tm> </keyword>
+<keyword translate="no" id="IMC">IBM Marketing Cloud</keyword>
+<keyword translate="no" id="RTP">Real-Time Personalization</keyword>
+<keyword translate="no" id="perfinsights">Performance Insights</keyword>
+<keyword translate="no" id="jdesign">Journey Designer</keyword></lines>
+<?Pub Caret 162?>
+</body>
+<?tm 1341858279 23?>
+</topic>
+<?Pub *0000006113?>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="customer_path_analysis" xml:lang="en-us">
+<title>Customer path analysis in <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/></title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring &gt; Toggle Comment.-->
+<!--&lt;titlealts&gt;&lt;navtitle&gt;&lt;/navtitle&gt;&lt;searchtitle&gt;&lt;/searchtitle&gt;&lt;/titlealts&gt;-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc><keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/>
+provides path analysis features that help you to focus only on the customer paths that are most
+relevant to your business goals.</shortdesc>
+<conbody>
+<p>The following steps are an overview of the workflow for using <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> to analyze customer paths.
+Begin your path analysis by submitting a path request that specifies the criteria for the paths you
+want to analyze. <keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/>
+then generates a report that contains only the paths that meet your criteria.</p>
+<ol>
+<li>Configure a path report to specify the criteria for the paths you want to analyze.</li>
+<li>Run the path report.</li>
+<li>Analyze the path report results.</li>
+<li>Share insights with colleagues.</li>
+</ol>
+<p>You can choose from various views of the results to focus your analysis. For example, you can
+focus on the most common customer behaviors, sequences of customer interactions, or path
+duration.</p>
+</conbody>
+</concept>

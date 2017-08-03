@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN" "ibm-reference.dtd">
+<reference id="video_paused" xml:lang="en-us">
+<title>Video Paused</title>
+<shortdesc>Information that describes a video on a website being paused by a customer.</shortdesc>
+<refbody>
+<section>
+<p>Event code: <userinput>ibmelementVideoPaused</userinput></p>
+<p>Publisher: <keyword conref="../../Common/common_names.dita#conrefs/core_long"/></p>
+</section>
+<section>
+<title>Event attributes</title>
+<table frame="all" id="table_yjj_xwh_kt" pgwide="1">
+<tgroup cols="5">
+<colspec colname="c1" colnum="1" colwidth="2.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<colspec colname="c3" colnum="3" colwidth="2.0*"/>
+<colspec colname="c4" colnum="4" colwidth="3.0*"/>
+<colspec colname="c5" colnum="5" colwidth="1.0*"/>
+<thead>
+<row>
+<entry align="center">Attribute Name</entry>
+<entry align="center">Data Type</entry>
+<entry align="center">Example </entry>
+<entry align="center">Description</entry>
+<entry align="center">Required</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Browser Name</entry>
+<entry>string</entry>
+<entry>Chrome</entry>
+<entry>The browser used on the device.</entry>
+<entry/>
+</row>
+<row>
+<entry>Browser Version</entry>
+<entry>string</entry>
+<entry>49.0.2623.87</entry>
+<entry>Browser version used on the device.</entry>
+<entry/>
+</row>
+<row>
+<entry>Device Type </entry>
+<entry>string</entry>
+<entry>MOBILEPHONE</entry>
+<entry>The type of device used to capture a customer event.</entry>
+<entry/>
+</row>
+<row>
+<entry>ElementCategory</entry>
+<entry>string</entry>
+<entry/>
+<entry>Allows grouping events into categories.</entry>
+<entry/>
+</row>
+<row>
+<entry>ElementId </entry>
+<entry>string</entry>
+<entry/>
+<entry>The means used to identify an element.</entry>
+<entry/>
+</row>
+<row>
+<entry>eventName</entry>
+<entry>string</entry>
+<entry/>
+<entry>Name of the intra-page event as it appears in the user interface.</entry>
+<entry/>
+</row>
+<row>
+<entry>model</entry>
+<entry>string</entry>
+<entry>Galaxy S5</entry>
+<entry>The model of the device.</entry>
+<entry/>
+</row>
+<row>
+<entry>OS</entry>
+<entry>string</entry>
+<entry>Android</entry>
+<entry>The OS of the device.</entry>
+<entry/>
+</row>
+<row>
+<entry>SubChannel </entry>
+<entry>string</entry>
+<entry>WEB</entry>
+<entry>A more granular descriptor of the channel where an event occurred.</entry>
+<entry/>
+</row>
+<row>
+<entry>vendor</entry>
+<entry>string</entry>
+<entry>Samsung</entry>
+<entry>The vendor of the device.</entry>
+<entry/>
+</row>
+<row>
+<entry>versionOS</entry>
+<entry>string</entry>
+<entry>6.0.1</entry>
+<entry>The version of the device.</entry>
+<entry/>
+</row>
+<row>
+<entry>VideoTimestamp</entry>
+<entry>string</entry>
+<entry>425</entry>
+<entry>The amount of time a video was played before it was paused or stopped.</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>VideoTotalLength</entry>
+<entry>string</entry>
+<entry>573</entry>
+<entry>The total length of the video being viewed by the customer.</entry>
+<entry>Yes</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</refbody>
+</reference>

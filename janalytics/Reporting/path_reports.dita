@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="path_reports" xml:lang="en-us">
+<title>Path reports</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>Customer path reports in <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> provide visual
+representations of the paths your customers traveled when interacting with your organization or
+brand. They also provide key metrics about each path, such as path duration, number of times
+traveled, average revenue, and number of unique customers.</shortdesc>
+<conbody>
+<p>When you configure a request for a path report, you specify the following criteria to limit the
+results to the paths that are most relevant to your business goals:</p>
+<ul>
+<!--<li>Market segment that you want to analyze</li>-->
+<li>Customer segment (optional)</li>
+<li>Metric to rank the paths</li>
+<li>Start or end touch point, or both</li>
+<li>Number of days to look forward (from a starting touch point) or backward (from an ending touch
+point)</li>
+</ul>
+</conbody>
+</concept>

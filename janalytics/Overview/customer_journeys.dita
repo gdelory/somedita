@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="customer_journeys" xml:lang="en-us">
+<title>Customer journeys</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>In <keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/>, a
+customer journey is a passage or progression through a path, or number of paths, to reach a goal,
+such as a product purchase.</shortdesc>
+<conbody>
+<p> The journey can include a number of paths, which are routes or courses that the customer takes
+to reach a particular goal or objective. The customer can use multiple channels, such as Web, email,
+social networks, or mobile applications, in a single path.</p>
+<p>The following example shows a path that customers followed to reach the goal of a product
+purchase. The path shows the channels that customers used to interact with the brand to reach the
+goal.</p>
+<fig id="fig_qwn_t5t_jt">
+<title>Multi-channel path that ends in a product purchase</title>
+<image href="../graphics/path_with_end_point.jpg" placement="break" align="center"
+alt="Multi-channel path"/>
+</fig>
+<p><keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> provides path
+analysis tools to help you examine the paths that are the most relevant to your organizational
+goals. For example, you can submit a request for a report of the paths that your top-tier buyers
+traveled after they watched a video on your website, or the paths that they traveled that led to the
+purchase of a product.</p>
+</conbody>
+</concept>

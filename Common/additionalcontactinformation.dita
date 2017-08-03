@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN"
+ "ibm-concept.dtd">
+<?Pub UDT _bookmark _target?>
+<?Pub Sty _display FontColor="red"?>
+<?Pub Inc?>
+<concept id="additionalcontactinformation" xml:lang="en-us">
+<title>Additional contact information</title><?Pub Caret -2?>
+<conbody>
+<p>For recommendations for product improvements, contact IBM at: cm_feedback@us.ibm.com</p>
+<p>If you need product assistance, contact the IBM Client Support Center: <xref
+href="https://support.ibmcloud.com" format="html" scope="external">
+https://support.ibmcloud.com</xref></p>
+<p>You can also contact the IBM office for your region.</p>
+<table>
+<tgroup align="center" cols="2"><colspec colname="col1"/><colspec
+colname="col2"/>
+<tbody>
+<row valign="top">
+<entry colsep="1" nameend="col2" namest="col1">USA</entry>
+</row>
+<row>
+<entry colname="col1"><lines>IBM
+1001 E Hillsdale Boulevard 
+Foster City, CA 94402
+Toll Free: 1.866.493.2673
+</lines></entry>
+<entry colname="col1">
+<lines>IBM
+Austin
+11501 Burnet Road
+Building 905, Floor 2
+Austin, TX 78758-3400
+Toll Free: 1.866.493.2673</lines>
+</entry>
+</row>
+<row>
+<entry colname="col2">
+<lines>IBM 
+Dallas
+750 W John Carpenter Freeway
+Irving, TX 75039
+Toll Free: 1.866.493.2673</lines>
+</entry>
+<entry colname="col2"/>
+</row>
+<row>
+<entry colsep="1" nameend="col2" namest="col1">Europe</entry>
+</row>
+<row>
+<entry colname="col1"><lines>IBM United Kingdom Limited
+3 Furzeground Way
+Stockley Park
+Uxbridge
+Middlesex
+UB11 1EZ
+U.K. 
+Tel: 020 8867 8003</lines></entry>
+<entry colname="col2"><lines>IBM 
+GmbH
+Beim Strohhause 17
+D-20097 Hamburg
+Germany
+Tel: 0800-180-2597</lines></entry>
+</row>
+<row>
+<entry colname="col1"><lines>IBM 
+France
+17 Avenue de l'Europe
+92275 Bois Colombes Cedex
+France
+Tel: 0800 91 4912
+</lines></entry>
+<entry colname="col2"></entry>
+</row>
+<row>
+<entry colsep="1" nameend="col2" namest="col1">Asia Pacific</entry>
+</row>
+<row>
+<entry align="center" colname="col1"><lines>IBM 
+Hong Kong Limited
+Silvercord Tower 2
+Room 907
+30, Canton Road
+Tsim Sha Tsui
+Kowloon
+Hong Kong SAR, China
+Tel: +852 8201 0823
+Fax: +852 8201 0832
+</lines></entry>
+<entry align="center" colname="col2"><lines>IBM
+Australia and New Zealand
+60 Southgate Ave
+Southgate VIC 3006
+AUSTRALIA
+(Aus) 1800 69 CORE
+(NZ) 0800 69 CORE
+</lines></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<section><title><tm tmtype="reg" trademark="IBM">IBM</tm> welcomes
+your comments</title><p>You may send your comments to the following
+address.  <sl>
+<sli><tm tmtype="reg" trademark="IBM">IBM</tm> Bay Area Lab</sli>
+<sli>1001 E Hillsdale Boulevard</sli>
+<sli>Foster City, California 94404</sli>
+<sli>USA</sli>
+</sl></p><p>You can send us comments electronically by using one of
+the following methods:  <dl><dlentry>
+<dt>Toll free</dt>
+<dd>1+866-493-2673</dd>
+</dlentry><dlentry>
+<dt>Support Center:</dt>
+<dd><xref href="https://support.ibmcloud.com" format="html" scope="external">
+https://support.ibmcloud.com</xref></dd>
+</dlentry><dlentry>
+<dt>World Wide Web:</dt>
+<dd><xref href="http://www.ibm.com/marketing-solutions/" format="html" scope="external"
+>www.ibm.com/marketing-solutions/</xref></dd>
+</dlentry></dl></p><p>If you would like a reply, be sure to include
+your name, address, telephone number, or FAX number. Make sure to
+include the following information in your comment or note: <ul>
+<li>Title of this document</li>
+<li>Page number or topic related to your comment</li>
+</ul>When you send information to <tm tmtype="reg" trademark="IBM">IBM</tm>,
+you grant <tm tmtype="reg" trademark="IBM">IBM</tm> a nonexclusive
+right to use or distribute the information in any way it believes
+appropriate without incurring any obligation to you.</p></section>
+</conbody>
+<?tm 1397679565 5?>
+</concept>
+<?Pub *0000004028?>

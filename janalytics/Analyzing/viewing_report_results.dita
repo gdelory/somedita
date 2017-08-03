@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//IBM//DTD DITA IBM Task//EN" "ibm-task.dtd">
+<task id="viewing_report_results" xml:lang="en-us">
+<title>Viewing report results</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc><keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/>
+provides three ways to view report results. You can also drill into each channel in the path to
+examine customer behavior in each path.</shortdesc>
+<!--To optimize PDF retrievability, add prolog and indexing tags that help crystalize why users should be looking up this topic (purpose, task, and what they will learn)-->
+<!--<prolog><metadata><keywords><indexterm></indexterm></keywords></metadata></prolog>-->
+</task>

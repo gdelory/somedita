@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE topic PUBLIC "-//IBM//DTD DITA IBM Topic//EN"
+ "ibm-topic.dtd">
+<?Pub Sty _display FontColor="red"?>
+<topic id="conref" xml:lang="en-us">
+<title>Tokens for conref</title>
+<shortdesc>This file contains the product names for former Tealeaf
+products</shortdesc>
+<body>
+<p><ph id="tl-company"><tm tmtype="reg" trademark="Tealeaf">Tealeaf</tm>,
+an <tm tmtype="reg" trademark="IBM">IBM</tm> Company</ph></p>
+<p><keyword id="tl-brand" translate="no">IBM Tealeaf</keyword></p>
+<p><keyword id="tl-space" translate="no">IBM Tealeaf Customer Experience</keyword></p>
+<p><keyword id="tl-CXCloud" translate="no">IBM Tealeaf Customer Experience
+on Cloud</keyword></p>
+<p><keyword id="tl-CXCloud-short" translate="no">Tealeaf Customer
+Experience on Cloud</keyword></p>
+<p><keyword id="tl-CX" translate="no">CX</keyword></p>
+<p><keyword id="tl-cxImpact" translate="no">cxImpact</keyword></p>
+<p><keyword id="tl-CX-Mobile" translate="no">CX Mobile</keyword></p>
+<p><keyword id="tl-cxReveal" translate="no">cxReveal</keyword></p>
+<p><keyword id="tl-cxView" translate="no">cxView</keyword></p>
+<p><keyword id="tl-cxOverstat" translate="no">cxOverstat</keyword></p>
+<p><keyword id="tl-cxResults" translate="no">cxResults</keyword></p>
+<p><keyword id="tl-cxVerify" translate="no">cxVerify</keyword></p>
+<p><keyword id="tl-cxConnect-DA" translate="no">cxConnect for Data
+Analysis</keyword></p>
+<p><keyword id="tl-cxConnect-VOC" translate="no">cxConnect for Voice
+of Customer</keyword></p>
+<p><keyword id="tl-cxConnect-WA" translate="no">cxConnect for Web
+Analytics</keyword></p>
+<p><keyword id="tl-cxConnect-MVT" translate="no">cxConnect for Multivariate
+Testing</keyword></p>
+<p><keyword id="tl-RTV" translate="no">CX RealiTea Viewer</keyword></p>
+<p><keyword id="tl-PCA" translate="no">CX Passive Capture Application</keyword></p>
+<p><keyword id="tl-UIC-AJAX" translate="no">CX UI Capture for AJAX</keyword></p>
+<p><keyword id="tl-UIC-j2" translate="no">UI Capture</keyword></p>
+<p><keyword id="tl-UIC-Flex" translate="no">CX UI Capture for Flex</keyword></p>
+<p><keyword id="tl-LF-Android" translate="no">Android SDK</keyword></p>
+<p><keyword id="tl-LF-iOS" translate="no"> iOS SDK</keyword></p>
+<p><keyword id="tl-RTV-acro" translate="no">CX RTV</keyword></p>
+<p><keyword id="tl-PCA-acro" translate="no">CX PCA</keyword></p>
+<p><keyword id="tl-PCA_PacketFwd" translate="no">Packet Forwarder</keyword></p>
+<p><keyword id="tl-UIC-acro" translate="no">UIC</keyword></p>
+<p><keyword id="tl-UIC-gen" translate="no">UI Capture</keyword></p>
+<p><keyword id="ibm_endpoint_manager" translate="no">IBM Endpoint
+Manager</keyword></p>
+<p><keyword id="iem" translate="no">IEM</keyword></p>
+<p><keyword id="sdk_android" translate="no">Android SDK</keyword></p>
+<p><keyword id="sdk_capture" translate="no">UI Capture </keyword></p>
+<p><keyword id="sdk_ios" translate="no">iOS SDK</keyword></p>
+<p><keyword translate="no" id="sdk_manager">SDK Manager</keyword></p>
+<p><ph id="tl-download">For more information on downloading Tealeaf
+software, see <xref format="html"
+href="https://community.tealeaf.com/display/public/Tealeaf+CX+Downloads">Tealeaf
+     CX Downloads</xref>.</ph></p>
+<p><ph id="tl-rep">please contact your IBM Tealeaf representative. </ph></p>
+<note id="tl-version-9.0.2A-Note">The following information applies
+to IBM Tealeaf version 9.0.2A only.</note>
+<p id="tl-version-9.0.2A-Description">IBM Tealeaf version 9.0.2A provides
+the same capabilities as version 9.0.2 and also includes the following
+additional capabilities:<ul>
+<li>Support for all common web page encodings, including those commonly
+used for Japanese, Chinese, and Korean encoded web pages.</li>
+<li>Improved encoding, searching, filtering, and collation operations
+on non-ASCII data (characters outside of A-Z, a-z, 0-9, and common
+punctuation).</li>
+<li>Support when the user data being processed is not the same as
+the native character encoding of the operating system. For example,
+Tealeaf components can process Arabic data on a French Windows operating
+system.</li>
+</ul></p>
+<note id="tl-version-9.0.1A-Note">The following information applies
+to IBM Tealeaf version 9.0.<varname>x</varname>A only.</note>
+<note id="902_not_902a">The following information applies to IBM Tealeaf version 9.0.2 only. It does
+not apply to IBM Tealeaf version 9.0.2 A.</note>
+<note id="902_FixPack1_Content">This information pertains to functionality available in IBM Tealeaf
+version 9.0.2 Fix Pack 1. For information about the fix pack, contact your IBM Tealeaf
+representative.<!--GSR added for September 11 2015 FixPack 1 release --></note>
+<note id="UIC_DOM_Diff_5.0.0">This information pertains to functionality available in IBM Tealeaf UI
+Capture version 5.0.0. For information about the release, contact your IBM Tealeaf
+representative.<!--KT added for September 11 2015 delivery of UIc which is version 5.0.0 or UIC, not 9.0.2.  May as well start getting all of the versions to match the software. so I created the UIC version to make it distinct from the CX version.--></note>
+<p id="tl-version-9.0.1A-Description">IBM Tealeaf version 9.0.<varname>x</varname>A
+provides the same capabilities as version 9.0.1 and also includes
+the following additional capabilities:<ul>
+<li>Support for all common web page encodings, including those commonly
+used for Japanese, Chinese, and Korean encoded web pages.</li>
+<li>Improved encoding, searching, filtering, and collation operations
+on non-ASCII data (characters outside of A-Z, a-z, 0-9, and common
+punctuation).</li>
+<li>Support when the user data being processed is not the same as
+the native character encoding of the operating system. For example,
+Tealeaf components can process Arabic data on a French Windows operating
+system.</li>
+</ul></p><?Pub Caret 27?>
+<note id="tl-version-9.0A-Note">The following information applies
+to IBM Tealeaf version 9.0A only.</note>
+<p id="tl-version-9.0A-Description">IBM Tealeaf version 9.0A provides
+the same capabilities as version 9.0 and also includes the following
+additional capabilities:<ul>
+<li>Support for all common web page encodings, including those commonly
+used for Japanese, Chinese, and Korean encoded web pages.</li>
+<li>Improved encoding, searching, filtering, and collation operations
+on non-ASCII data (characters outside of A-Z, a-z, 0-9, and common
+punctuation).</li>
+<li>Support when the user data being processed is not the same as
+the native character encoding of the operating system. For example,
+Tealeaf components can process Arabic data on a French Windows operating
+system.</li>
+</ul></p>
+<note id="tl-version-EICS-Note">The following information applies
+to IBM Tealeaf with EICS enablement.</note>
+<p id="tl-version-EICS-Description">IBM Tealeaf with EICS support
+includes the following additional capabilities:<ul>
+<li>Support for all common web page encodings, including those commonly
+used for Japanese, Chinese, and Korean encoded web pages.</li>
+<li>Improved encoding, searching, filtering, and collation operations
+on non-ASCII data (characters outside of A-Z, a-z, 0-9, and common
+punctuation).</li>
+<li>Support when the user data being processed is not the same as
+the native character encoding of the operating system. For example,
+Tealeaf components can process Arabic data on a French Windows operating
+system.</li>
+</ul></p>
+<!--<p><ph id="tl-rep">For more information, please contact your IBM Tealeaf
+representative. </ph></p>-->
+<p><ph id="tl-support">Tealeaf <xref format="html"
+href="http://support.tealeaf.com">Customer      Support</xref>    </ph></p>
+<p><xref format="html" href="http://www.tealeaf.com" id="tl-website">www.tealeaf.com</xref></p>
+<section id="editionNotice"> <p>Tealeaf CX may be covered by U.S.
+Patent RE41,903.  Other United States and foreign patents pending.</p> <p>The
+following documentation is proprietary and confidential information
+of Tealeaf, an IBM Company and its licensors, the use of which is
+subject to a License Agreement between the authorized licensee and
+Tealeaf, an IBM Company. Any use, modification, reproduction, release,
+performance, display, disclosure or distribution thereof shall be
+governed solely by the terms of the License Agreement and shall be
+prohibited except to the extent expressly permitted by the terms of
+the License Agreement.</p> <p>As defined in FAR section 2.101, DFAR
+section 252.227-7014(a)(1) and DFAR section 252.227-7014(a)(5) or
+otherwise, all software and accompanying documentation provided by
+Tealeaf, an IBM Company are "commercial items," "commercial computer
+software" and/or "commercial computer software documentation." Consistent
+with DFAR section 227.7202 and FAR section 12.212, any use, modification,
+reproduction, release, performance, display, disclosure or distribution
+thereof by or for the U.S. Government shall be governed solely by
+the terms of the License Agreement and shall be prohibited except
+to the extent expressly permitted by the terms of the License Agreement.</p> <p>For
+a copy of the License Agreement, please contact Tealeaf, an IBM Company,
+55 2nd Street, Suite 200, San Francisco, CA 94105.</p></section>
+</body>
+</topic>
+<?Pub *0000008320?>

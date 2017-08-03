@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//IBM//DTD DITA IBM Task//EN" "ibm-task.dtd">
+<task id="accessing_path_views" xml:lang="en-us">
+<title>Accessing path views</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>You can access the three path view types for your completed reports that contain results
+data.</shortdesc>
+<!--To optimize PDF retrievability, add prolog and indexing tags that help crystalize why users should be looking up this topic (purpose, task, and what they will learn)-->
+<!--<prolog><metadata><keywords><indexterm></indexterm></keywords></metadata></prolog>-->
+<taskbody>
+<steps>
+<step>
+<cmd>Open the report that you want to view.</cmd>
+<substeps>
+<substep>
+<cmd>In the title bar, click <uicontrol>Report Status</uicontrol>.</cmd>
+<info>
+<p>When the processing of a report is completed, the report is shown in the <uicontrol>Completed
+reports</uicontrol> list.</p>
+</info>
+</substep>
+<substep>
+<cmd>Under <uicontrol>Completed reports</uicontrol>, select the report that you want to view.</cmd>
+<info>
+<note>If the report returned results, it is listed in the menu as "Completed" with the date and time
+that the report finished running. If the report is listed as "No data found", you can try modifying
+the report criteria to obtain results.</note>
+<p>The Channel Summary of the report opens with the Separated view displayed by default.</p>
+</info>
+</substep>
+</substeps>
+</step>
+<step>
+<cmd>To toggle between report views, select the views from the options that are displayed above the
+results: Separated view, Time-lapsed view, or Merged view.</cmd>
+</step>
+</steps>
+</taskbody>
+</task>

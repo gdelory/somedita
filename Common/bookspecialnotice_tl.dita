@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN"
+ "ibm-concept.dtd">
+<?Pub Sty _display FontColor="red"?>
+<?Pub Inc?>
+<concept id="bookspecialnotice" xml:lang="en-us">
+<title>Note</title>
+<conbody>
+<!--All books; however, only books that require safety and environmental notices should contain that cross-reference. -->
+<p>Before using this information and the product it supports, read the information in <xref
+   href="booknotices_tl.dita"/>.</p>
+</conbody>
+</concept>
+<?Pub *0000000583?>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="market_segments" xml:lang="en-us">
+<title>Market segments</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>A market segment is a subset of your customer base, such as New Members or Repeat Buyers.
+<keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> receives the
+segment data from providers who share this information through IBM Universal Behavior Exchange
+(UBX).</shortdesc>
+<conbody>
+<p>You can apply one of these market segments to a report to limit the results to paths traveled
+only by members of the segment. You can also choose to include all customers in your path results,
+or only customers who do not yet belong to any strategic market segment.</p>
+<p>For more information about how segment information is shared with <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/>, see the IBM Universal
+Behavior Exchange (UBX) documentation.</p>
+<draft-comment author="slaflamme">How are market segments defined? Who does it?</draft-comment>
+</conbody>
+</concept>

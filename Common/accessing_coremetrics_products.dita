@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN"
+ "ibm-concept.dtd">
+<?Pub Sty _display FontColor="red"?>
+<?Pub Inc?>
+<concept id="loggingintoTagManager" xml:lang="en-us">
+<title>Access <keyword conref="common_names.dita#conrefs/tagmanager_short" product="tagmanager"
+/><keyword conref="common_names.dita#conrefs/adtarget_short" product="adtarget"/><keyword
+conref="common_names.dita#conrefs/web_anal_short" product="analytics"/><keyword
+conref="common_names.dita#conrefs/benchmark_short" product="benchmark"/><keyword
+conref="common_names.dita#conrefs/srch_mktng_short" product="coresearch"/><keyword
+conref="common_names.dita#conrefs/explore_short" product="explore"/><keyword
+conref="common_names.dita#conrefs/export_short" product="export"/><keyword
+conref="common_names.dita#conrefs/import_short" product="import"/><keyword
+conref="common_names.dita#conrefs/intel_off_short" product="productRec contentRec DigitalRecAI"
+/><keyword conref="common_names.dita#conrefs/livemail_short" product="livemail"/><keyword
+conref="common_names.dita#conrefs/monitor_short" product="monitor"/><keyword
+conref="common_names.dita#conrefs/marketing_central_short" product="mcenter"/><keyword
+conref="common_names.dita#conrefs/social_anal_short" product="social"/><keyword
+conref="common_names.dita#conrefs/ent_dash_short" product="edashboard"/></title>
+<shortdesc>You can access <keyword conref="common_names.dita#conrefs/tagmanager_long"
+product="tagmanager"/><keyword conref="common_names.dita#conrefs/adtarget_long" product="adtarget"
+/><keyword conref="common_names.dita#conrefs/web_anal_long" product="analytics"/><keyword
+conref="common_names.dita#conrefs/benchmark_long" product="benchmark"/><keyword
+conref="common_names.dita#conrefs/srch_mktng_long" product="coresearch"/><keyword
+conref="common_names.dita#conrefs/explore_long" product="explore"/><keyword
+conref="common_names.dita#conrefs/export_long" product="export"/><keyword
+conref="common_names.dita#conrefs/import_long" product="import"/><keyword
+conref="common_names.dita#conrefs/intel_off_long" product="productRec contentRec DigitalRecAI"
+/><keyword conref="common_names.dita#conrefs/livemail_long" product="livemail"/><keyword
+conref="common_names.dita#conrefs/monitor_long" product="monitor"/><keyword
+conref="common_names.dita#conrefs/marketing_central_long" product="mcenter"/><keyword
+conref="common_names.dita#conrefs/social_anal_long" product="social"/><keyword
+conref="common_names.dita#conrefs/ent_dash_long" product="edashboard"/> directly or from another
+<keyword conref="common_names.dita#conrefs/core_short"/> application. </shortdesc>
+<conbody>
+<p>If your account is enabled for <keyword conref="common_names.dita#conrefs/tagmanager_long"
+product="tagmanager"/><keyword conref="common_names.dita#conrefs/adtarget_long" product="adtarget"
+/><keyword conref="common_names.dita#conrefs/web_anal_long" product="analytics"/><keyword
+conref="common_names.dita#conrefs/benchmark_long" product="benchmark"/><keyword
+conref="common_names.dita#conrefs/srch_mktng_long" product="coresearch"/><keyword
+conref="common_names.dita#conrefs/explore_long" product="explore"/><keyword
+conref="common_names.dita#conrefs/export_long" product="export"/><keyword
+conref="common_names.dita#conrefs/import_long" product="import"/><keyword
+conref="common_names.dita#conrefs/intel_off_long" product="productRec contentRec DigitalRecAI"
+/><keyword conref="common_names.dita#conrefs/livemail_long" product="livemail"/><keyword
+conref="common_names.dita#conrefs/monitor_long" product="monitor"/><keyword
+conref="common_names.dita#conrefs/marketing_central_long" product="mcenter"/><keyword
+conref="common_names.dita#conrefs/social_anal_long" product="social"/><keyword
+conref="common_names.dita#conrefs/ent_dash_long" product="edashboard"/>, you can access it in two
+ways:</p>
+<ul>
+<li>If you are already logged in to an <keyword conref="common_names.dita#conrefs/core_long"/>
+application, click <uicontrol product="tagmanager">Digital Data Exchange</uicontrol><uicontrol
+product="adtarget">AdTarget</uicontrol><uicontrol product="analytics">Digital
+Analytics</uicontrol><uicontrol product="benchmark">Benchmark</uicontrol><uicontrol
+product="coresearch">Search Marketing</uicontrol><uicontrol product="explore"
+>Explore</uicontrol><uicontrol product="export">Export</uicontrol><uicontrol product="import"
+>Import</uicontrol><uicontrol product="productRec contentRec DigitalRecAI"
+>Recommendations</uicontrol><uicontrol product="livemail">LIVEmail</uicontrol><uicontrol
+product="monitor">Monitor</uicontrol><uicontrol product="mcenter">Marketing
+Center</uicontrol><uicontrol product="social">Social Analytics</uicontrol><uicontrol
+product="edashboard">Enterprise Dashboard</uicontrol> in the header navigation menu. The application
+opens and you are automatically authenticated. </li>
+<li>Go to the URL your organization was given when your account was set up. On the <wintitle>Log
+In</wintitle> page, enter your client ID, user name, and password, and then click <uicontrol>Log
+In</uicontrol>.<p>If you do not know the URL, contact <tm tmtype="reg" trademark="IBM">IBM</tm>
+Software Support.</p></li>
+</ul>
+</conbody>
+<?tm 1397679541 1?>
+</concept><?Pub Caret 0?>
+<?Pub *0000005845?>

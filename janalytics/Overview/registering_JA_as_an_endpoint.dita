@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//IBM//DTD DITA IBM Task//EN" "ibm-task.dtd">
+<task id="registering_JA_as_an_endpoint" xml:lang="en-us">
+<title> Registering <keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_short"
+/> as an endpoint in IBM Universal Behavior Exchange test new title</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc><keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/>
+receives all of its customer data for reporting (THIS IS MY CHANGE) from IBX Universal Behavior
+Exchange (UBX). To receive this data, <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> must be registered as a
+subscriber endpoint in your UBX account.</shortdesc>
+<!--To optimize PDF retrievability, add prolog and indexing tags that help crystalize why users should be looking up this topic (purpose, task, and what they will learn)-->
+<!--<prolog><metadata><keywords><indexterm></indexterm></keywords></metadata></prolog>-->
+<taskbody>
+<context>
+<p>Use the UBX user interface to register as an endpoint. For instructions and more information
+about endpoint registration, see the <i>IBM Universal Behavior Exchange User's Guide</i>.</p>
+</context>
+<steps>
+<step>
+<cmd>Log in to UBX and provide the following information in the Endpoint registration wizard.</cmd>
+<info>
+<table frame="all" rowsep="1" colsep="1" id="table_dxg_dxw_mv">
+<tgroup cols="2">
+<colspec colname="c1" colnum="1" colwidth="1*"/>
+<colspec colname="c2" colnum="2" colwidth="1.97*"/>
+<thead>
+<row>
+<entry>Field</entry>
+<entry>Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Endpoint authorization key</entry>
+<entry>Authorization key provided by UBX provisioning.</entry>
+</row>
+<row>
+<entry>User name</entry>
+<entry>User name as defined by your <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> account in IBM Silverpop
+Engage. The user name is typically in email address format, but it is not your email address. For
+example, <userinput>&lt;your_name>@&lt;your_company>.journeyanalytics.com</userinput>.</entry>
+</row>
+<row>
+<entry>Org_id2</entry>
+<entry>Customer ID that is associated with <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/>. The
+<uicontrol>Org_id2</uicontrol> value is an integer, input as a string.</entry>
+</row>
+<row>
+<entry>Pod</entry>
+<entry>Two-digit number of the database instance that contains your customer record (for example,
+<userinput>05</userinput>). <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> requires this value
+because your organization ID might be included in multiple user authentication instances. <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> names the tables and
+identifies customer metadata by concatenating the <uicontrol>org_id2</uicontrol> value with the
+<uicontrol>Pod</uicontrol> number (for example, <userinput>1234_01</userinput>).</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</info>
+</step>
+</steps>
+</taskbody>
+</task>

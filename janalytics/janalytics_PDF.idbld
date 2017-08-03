@@ -1,0 +1,10 @@
+#IDWB IDBLD Properties
+#Mon Sep 28 14:30:05 EDT 2015
+IDDSH=janalytics.dsh
+IDPROCESSOR=MAP2PDF
+PDF_IDDITACONTROL=../../BuildTools/ditacontrol/StandardPDF.ditacontrol
+IDFILTER=..\\..\\BuildTools\\ditaval\\janalytics.ditaval
+IDXSL=../../BuildTools/xsl/TaskLabels.xsl
+PDF_IDPDFLINK=Transparent
+IDINPUTFILE=janalytics.ditamap
+PDF_IDIMAGETYPES=EPS,JPG

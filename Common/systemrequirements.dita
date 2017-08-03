@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN"
+ "ibm-concept.dtd">
+<?Pub Sty _display FontColor="red"?>
+<concept id="adtargetsystemrequirements" xml:lang="en-us">
+<title>System requirements</title>
+<!--This is a shared topic for most DM&A products. As of July 2013 DDX does not use this shared topic because it has slightly different specific requirements.
+Any other products not using this shared topic should be noted in this comment.-->
+<shortdesc>To run <keyword conref="common_names.dita#conrefs/core_long"></keyword> products,
+you must run specific versions of software and browsers and have a
+minimum required amount of memory.</shortdesc>
+<conbody>
+<p>Maintain the following system requirements:</p>
+<ul>
+<li>Software: Adobe Flash Player, V10 or V11 </li>
+<li>Browsers: Microsoft Internet Explorer, V9 or later. Mozilla Firefox, V29 or later. Chrome, V34
+or later.</li>
+<li>Memory: 1 GB RAM or more</li>
+<li product="mcenter">Screen resolution: 1024 x 768 or higher</li><?Pub
+Caret 0?>
+</ul>
+</conbody>
+</concept>
+<?Pub *0000001118?>

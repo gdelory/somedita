@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN" "ibm-reference.dtd">
+<reference id="reference_gj3_fzm_mt" xml:lang="en-us">
+<title>Searched Site</title>
+<shortdesc>Information that describes what happens as an individual searched a web site. A variation
+of a page view.</shortdesc>
+<refbody>
+<section>
+<p>Event code: <userinput>ibmsearchedSite</userinput></p>
+<p>Publisher: <keyword conref="../../Common/common_names.dita#conrefs/core_long"/></p>
+</section>
+<section>
+<title>Event attributes</title>
+<table frame="all" id="table_wrq_nzm_mt">
+<tgroup cols="5">
+<colspec colname="c1" colnum="1" colwidth="2.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<colspec colname="c3" colnum="3" colwidth="2.0*"/>
+<colspec colname="c4" colnum="4" colwidth="3.0*"/>
+<colspec colname="c5" colnum="5" colwidth="1.0*"/>
+<thead>
+<row>
+<entry align="center">Attribute Name</entry>
+<entry align="center">Data Type</entry>
+<entry align="center">Example </entry>
+<entry align="center">Description</entry>
+<entry align="center">Required</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>eventName </entry>
+<entry> string </entry>
+<entry>Incomplete Conversion</entry>
+<entry>Name of the event as it appears in the user interface.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>interactionId </entry>
+<entry> string </entry>
+<entry>&lt;number></entry>
+<entry>Identify a site visit. Example: a cookie ID identifies the visitor. The
+<userinput>interactionID</userinput> identifies the visit. An individual can be involved in multiple
+visits. Also called a session ID. </entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>Search Type</entry>
+<entry> string </entry>
+<entry>OnSite</entry>
+<entry>Type of search. Example: For IBM Digital Analytics, the type is always <userinput>On
+Site</userinput>.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>Search terms</entry>
+<entry> string </entry>
+<entry>Lamps</entry>
+<entry>Term entered by visitor when they performed the search.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>Page URL</entry>
+<entry> string </entry>
+<entry>&lt;URL></entry>
+<entry>URL of the landing page after the search performed.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>Page ID</entry>
+<entry> string </entry>
+<entry>Search Unsuccessful</entry>
+<entry>Page Name of the landing page.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>SearchResultCount</entry>
+<entry>number</entry>
+<entry>25</entry>
+<entry>Number of search results.</entry>
+<entry align="center">Yes</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</refbody>
+</reference>

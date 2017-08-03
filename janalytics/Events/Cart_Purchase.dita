@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN" "ibm-reference.dtd">
+<reference id="cart_purchase" xml:lang="en-us">
+<title>Cart Purchase</title>
+<shortdesc>Information that describes a cart of items that an individual purchased through a web
+site. This event contains characteristics for the entire purchase.</shortdesc>
+<refbody>
+<section>
+<p>Event Code: <userinput>ibmcartPurchase</userinput></p>
+<p>Publisher: <keyword conref="../../Common/common_names.dita#conrefs/core_long"/></p>
+</section>
+<section>
+<title>Event attributes</title>
+<table frame="all" id="table_yjj_xwh_kt" pgwide="1">
+<tgroup cols="5">
+<colspec colname="c1" colnum="1" colwidth="2.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<colspec colname="c3" colnum="3" colwidth="2.0*"/>
+<colspec colname="c4" colnum="4" colwidth="3.0*"/>
+<colspec colname="c5" colnum="5" colwidth="1.0*"/>
+<thead>
+<row>
+<entry align="center">Attribute Name</entry>
+<entry align="center">Data Type</entry>
+<entry align="center">Example </entry>
+<entry align="center">Description</entry>
+<entry align="center">Required</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Currency</entry>
+<entry>string</entry>
+<entry>EUR</entry>
+<entry>Type of currency.</entry>
+<entry/>
+</row>
+<row>
+<entry>Description</entry>
+<entry>string</entry>
+<entry>&lt;Text></entry>
+<entry>Description of the event to provide context for the event.</entry>
+<entry/>
+</row>
+<row>
+<entry>eventName</entry>
+<entry>string</entry>
+<entry>Aggregate Purchase</entry>
+<entry>Name of the event as it appears in the user interface.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>interactionId</entry>
+<entry>integer</entry>
+<entry>12345</entry>
+<entry>
+<p>Unique identifier for a visit. Sometimes called a session ID.</p>
+<p>For example, if a <userinput>cookieId</userinput> identifies a visitor, the
+<userinput>interactionId</userinput> identifies a visit by that person. One person can generate
+multiple visits, which are distinguished by multiple <userinput>interactionIds</userinput>
+</p>
+</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>orderDiscount</entry>
+<entry>integer</entry>
+<entry>150.00</entry>
+<entry>Amount that is deducted from order sub total.</entry>
+<entry/>
+</row>
+<row>
+<entry>Order ID</entry>
+<entry>string</entry>
+<entry>5678</entry>
+<entry>Identifies a specific purchase.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>Order Promo</entry>
+<entry>string</entry>
+<entry>AS678</entry>
+<entry>Promotional code/offer used at checkout.</entry>
+<entry/>
+</row>
+<row>
+<entry>orderShipping</entry>
+<entry>&lt;value></entry>
+<entry>number</entry>
+<entry>Amount of shipping added to total order.</entry>
+<entry align="center"></entry>
+</row>
+<row>
+<entry>orderSubTotal</entry>
+<entry>integer</entry>
+<entry>775.50</entry>
+<entry>Order amount before sales, discounts, tax, and any other charges.</entry>
+<entry/>
+</row>
+<row>
+<entry>orderTax</entry>
+<entry>integer</entry>
+<entry>31.28</entry>
+<entry>Tax amount on the total cart order.</entry>
+<entry/>
+</row>
+<row>
+<entry>orderTotal</entry>
+<entry>integer</entry>
+<entry>625.50</entry>
+<entry>Total order amount. The amount should not include shipping, but might include sales or
+discounts.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>productList</entry>
+<entry>string</entry>
+<entry>Comma delimited list of product IDs</entry>
+<entry>The product IDs of the items purchased.</entry>
+<entry/>
+</row>
+<row>
+<entry>quantity</entry>
+<entry>integer</entry>
+<entry>5</entry>
+<entry>Total number of individual items in the cart.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>shippingType</entry>
+<entry>string</entry>
+<entry>Priority</entry>
+<entry>Shipping method selected by customer.</entry>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</refbody>
+</reference>

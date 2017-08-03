@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//IBM//DTD DITA IBM Map//EN" "ibm-map.dtd">
+<map xml:lang="en-us"><title>keyref for IMC</title>
+<keydef keys="imc"><topicmeta><keywords><keyword>IBM Marketing Cloud</keyword></keywords></topicmeta></keydef> 		
+<keydef keys="engage"><topicmeta><keywords><keyword>Engage</keyword></keywords></topicmeta></keydef>						
+<keydef keys="socaud"><topicmeta><keywords><keyword>Social Audiences</keyword></keywords></topicmeta></keydef> 			
+<keydef keys="grpmsg"><topicmeta><keywords><keyword>Group Messaging</keyword></keywords></topicmeta></keydef>				
+<keydef keys="ubx"><topicmeta><keywords><keyword>UBX</keyword></keywords></topicmeta></keydef> 						
+<keydef keys="ubx_long"><topicmeta><keywords><keyword>Universal Behavior Exchange</keyword></keywords></topicmeta></keydef> 
+<keydef keys="mce"><topicmeta><keywords><keyword>Mobile Customer Engagement</keyword></keywords></topicmeta></keydef> 	
+<keydef keys="rtp"><topicmeta><keywords><keyword>Real-Time Personalization</keyword></keywords></topicmeta></keydef> 	
+<keydef keys="jd"><topicmeta><keywords><keyword>Journey Designer</keyword></keywords></topicmeta></keydef> 			
+<keydef keys="pi"><topicmeta><keywords><keyword>Performance Insights</keyword></keywords></topicmeta></keydef> 		
+<keydef keys="wfx"><topicmeta><keywords><keyword>Weather FX</keyword></keywords></topicmeta></keydef> 					
+</map>

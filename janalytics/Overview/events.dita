@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="events" xml:lang="en-us">
+<title>Events in <keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_short"
+/></title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>Events are interactions between a customer and your organization or brand. The customer
+paths in your Journey Analytics reports can include any events that are shared with Journey
+Analytics by event publishers through IBM Universal Behavior Exchange (UBX). </shortdesc>
+<conbody>
+<p>Event types vary according to channel. For example, in the Web channel, event data is captured
+when a customer performs a cart purchase, completes a conversion, or views information about a
+product. In the Email channel, event data is captured when a user opens an email or clicks a link in
+an email.</p>
+<p> For each channel in a path, you can gain a deeper understanding of how customers interacted in
+the channel by comparing the different events that occurred in the channel. Looking at the events
+that are associated with each channel in a customer path can help you answer the following types of
+questions:</p>
+<ul>
+<li>What are the most common customer behaviors within a channel? When customers visit your website,
+what do they do most often? </li>
+<li>What are the most common events across all channels in the path? For example, if customers
+experience a struggle in the web channel, do they also experience struggles in other channels?</li>
+<li>For an event that can occur in more than one channel, is it more common in one channel than in
+another? For example, do more customers watch a video on your website than on your mobile
+application? </li>
+</ul>
+<section>
+<title>Event attributes</title>
+<p>Each event consists of attributes that are specific to the event type. For example, the Viewed
+Product event contains attributes for the category, name, and description of the event, the URL of
+the product image, and product size. When you define the journey paths that you want to analyze, you
+can use one or more event attributes to confine your results to a particular subset of customers.
+For example, you can filter the Product Name attribute of the Cart Purchased event to limit your
+results to customers who purchased a particular product.</p>
+<p> For descriptions of all the events available in <keyword
+conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/> and their attributes, see
+the Events reference. For more information about event subscription and event publishing, see the
+IBM Universal Behavior Exchange documentation.</p>
+</section>
+</conbody>
+</concept>

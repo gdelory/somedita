@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="report_metrics_results" xml:lang="en-us">
+<title>Report metrics results</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>Path reports display results for four metrics: most traveled, average revenue, duration,
+unique customers.</shortdesc>
+<conbody>
+<p>
+<dl>
+<dlentry>
+<dt>Most traveled</dt>
+<dd>The total number of times that customers traveled this path.</dd>
+</dlentry>
+<dlentry>
+<dt>Average revenue</dt>
+<dd>The average amount of revenue generated each time that the path was traveled.</dd>
+</dlentry>
+<dlentry>
+<dt>Duration</dt>
+<dd>The average length of time that customers spent traveling this path.</dd>
+</dlentry>
+<dlentry>
+<dt>Unique customers</dt>
+<dd>The number of unique customers who traveled the path.</dd>
+</dlentry>
+</dl>
+</p>
+</conbody>
+</concept>

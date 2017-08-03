@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN" "ibm-reference.dtd">
+<reference id="email_opt_out" xml:lang="en-us">
+<title>Email Opt Out</title>
+<shortdesc>Information that describes how an email recipient opted out of an automated mailing
+program.</shortdesc>
+<refbody>
+<section>
+<p>Event code: <userinput>emailOptOut</userinput></p>
+<p>Publisher: <keyword conref="../../Common/common_names.dita#conrefs/core_long"/></p>
+</section>
+<section>
+<title>Event attributes</title>
+<table frame="all" id="table_yjj_xwh_kt" pgwide="1">
+<tgroup cols="5">
+<colspec colname="c1" colnum="1" colwidth="2.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<colspec colname="c3" colnum="3" colwidth="2.0*"/>
+<colspec colname="c4" colnum="4" colwidth="3.0*"/>
+<colspec colname="c5" colnum="5" colwidth="1.0*"/>
+<thead>
+<row>
+<entry align="center">Attribute Name</entry>
+<entry align="center">Data Type</entry>
+<entry align="center">Example </entry>
+<entry align="center">Description</entry>
+<entry align="center">Required</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Campaign code</entry>
+<entry>string</entry>
+<entry>&lt;campaign specific></entry>
+<entry>A unique identifier for a group of automated messages.</entry>
+<entry/>
+</row>
+<row>
+<entry>Campaign name</entry>
+<entry>string</entry>
+<entry>New Year - New Opportunities!</entry>
+<entry>Name of the campaign conducted to generate customer interactions.</entry>
+<entry/>
+</row>
+<row>
+<entry>eventName</entry>
+<entry>string</entry>
+<entry>Email Bounce</entry>
+<entry>Name of the event as it appears in <keyword
+conref="../../Common/common_names.dita#conrefs/cxa_long"/></entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>Message ID</entry>
+<entry>number</entry>
+<entry>&lt;value></entry>
+<entry>User-defined name<p/></entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry>subjectLine</entry>
+<entry>string</entry>
+<entry>&lt;value></entry>
+<entry>Subject line of the message</entry>
+<entry>Yes</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</refbody>
+</reference>

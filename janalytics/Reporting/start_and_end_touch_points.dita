@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="start_and_end_touch_points" xml:lang="en-us">
+<title>Start and end touch points</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>When you configure a path request, you must specify a start point or an end point for the
+path. You can also define both a start point and an end point.</shortdesc>
+<conbody>
+<p>A touch point is associated with an interaction, also called an event. For example, you might
+specify an event such as opening an email as the start touch point for a path. Or, you might specify
+a cart purchase as the end point of a path. If you define a start touch point, the path contains
+interactions that followed the start point. If you define an end touch point, the path contains
+interactions that led to the end touch point. If you define both a start point and an end point, the
+path contains interactions that occurred between the two points.</p>
+<p>When you add a start or end touch point to your path request, you must specify the following
+criteria to define the touch point:</p>
+<ul>
+<li>Event type</li>
+<li>Filter criteria</li>
+<li>Date range</li>
+</ul>
+<section>
+<title>Event type</title>
+<p>Event types vary according to channel, and they can be initiated by customers or by your company.
+Each event type contains attributes that define the event. For example, the Cart Purchase Item event
+can include attributes such as the product name and price. You can view the list of attributes, and
+other details about an event, when you define the touch point.</p>
+<!--<p>The following table shows some of the most common event types for the web, email, and mobile app
+channels.</p>
+<table frame="all" rowsep="1" colsep="1" id="table_sss_r3g_jt">
+<title>Common event types for the web, email, and mobile application channels</title>
+<tgroup cols="3">
+<colspec colname="c1" colnum="1" colwidth="1.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<colspec colname="c3" colnum="3" colwidth="1.0*"/>
+<thead>
+<row>
+<entry>Web</entry>
+<entry>Email</entry>
+<entry>Mobile application</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Send </entry>
+<entry>Opened</entry>
+<entry>Install</entry>
+</row>
+<row>
+<entry>Open</entry>
+<entry>Deleted</entry>
+<entry>Uninstall </entry>
+</row>
+<row>
+<entry>Click </entry>
+<entry>Clicked link</entry>
+<entry>Session Start</entry>
+</row>
+<row>
+<entry>Bounce</entry>
+<entry>Unsubscribed</entry>
+<entry>Session End</entry>
+</row>
+<row>
+<entry>Opt Out</entry>
+<entry/>
+<entry>Send</entry>
+</row>
+<row>
+<entry>Opt In</entry>
+<entry/>
+<entry>Click</entry>
+</row>
+</tbody>
+</tgroup>
+</table>-->
+<p/>
+</section>
+<section>
+<title>Filter criteria</title>
+<p>You can limit the path results by filtering on any of the event attributes. For example, you can
+filter the Email Open event by message name or message ID.</p>
+</section>
+<section>
+<title>Event date range</title>
+<p>When you select an event as the start or end touch point of a path, you can limit results by
+specifying an event date range. The path results contain only events that occurred within the date
+range that you specify.</p>
+</section>
+</conbody>
+</concept>

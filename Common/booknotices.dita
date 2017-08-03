@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002-->
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN"
+ "ibm-concept.dtd">
+<?Pub Sty _display FontColor="red"?>
+<?Pub Inc?>
+<concept id="booknotices" xml:lang="en-us">
+<title>Notices</title><?Pub Caret -2?>
+<!--"Legal" Notices. 
+In a book, make this the last appendix, the only appendix, or a separate division before any other back matter.
+See: http://utic.raleigh.ibm.com/help/topic/com.ibm.utic.publishing.doc/doc/notices_books.html
+In an information center, put this topic in your navigation tree and link to it from the footer in your welcome page. See "Legal requirements for topic-based information": notes://d25web1/function/idtools/sguidenew.nsf/0/481572bb84a45baf8525700c003dfdc7-->
+<conbody>
+<!--All information: Follow the first level heading with this text. Replace U.S.A. (in the first sentence) as appropriate. The country that you specify should be a country where the product is marketed. If you are uncertain what country to use, consult your local IP Law department.-->
+<p>This information was developed for products and services offered
+in the U.S.A. </p>
+<p><tm tmtype="reg" trademark="IBM">IBM</tm> may not offer the products,
+services, or features discussed in this document in other countries.
+Consult your local <tm tmtype="reg" trademark="IBM">IBM</tm> representative
+for information about the products and services currently available
+in your area. Any reference to an <tm tmtype="reg" trademark="IBM">IBM</tm> product,
+program, or service is not intended to state or imply that only that <tm
+tmtype="reg" trademark="IBM">IBM</tm> product, program, or service
+may be used. Any functionally equivalent product, program, or service
+that does not infringe any <tm tmtype="reg" trademark="IBM">IBM</tm> intellectual
+property right may be used instead. However, it is the user's responsibility
+to evaluate and verify the operation of any non-IBM product, program,
+or service.  </p>
+<p><tm tmtype="reg" trademark="IBM">IBM</tm> may have patents or pending
+patent applications covering subject matter described in this document.
+The furnishing of this document does not grant you any license to
+these patents. You can send license inquiries, in writing, to:  <lines>IBM Director of Licensing
+IBM Corporation
+North Castle Drive
+Armonk, NY 10504-1785
+U.S.A. 
+</lines></p>
+<!--Software information only: If your information is distributed in Asia Pacific countries, include the following statement. -->
+<p>For license inquiries regarding double-byte (DBCS) information,
+contact the <tm tmtype="reg" trademark="IBM">IBM</tm> Intellectual
+Property Department in your country or send inquiries, in writing,
+to: <lines>Intellectual Property Licensing
+Legal and Intellectual Property Law
+IBM Japan, Ltd.
+19-21, Nihonbashi-Hakozakicho, Chuo-ku
+Tokyo 103-8510, Japan</lines></p>
+<!--All information: Use this paragraph as it is shown here. -->
+<p><ph>The following paragraph does not apply to the United Kingdom
+or any other country where such provisions are inconsistent with local
+law:</ph> INTERNATIONAL BUSINESS MACHINES CORPORATION PROVIDES THIS
+PUBLICATION "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR
+IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+Some states do not allow disclaimer of express or implied warranties
+in certain transactions, therefore, this statement may not apply to
+you. </p>
+<p>This information could include technical inaccuracies or typographical
+errors. Changes are periodically made to the information herein; these
+changes will be incorporated in new editions of the publication. <tm
+tmtype="reg" trademark="IBM">IBM</tm> may make improvements and/or
+changes in the product(s) and/or the program(s) described in this
+publication at any time without notice. </p>
+<!--All information: This paragraph addresses general issues of exposure in publishing non-IBM Web addresses. Some sites might require Intellectual Property Law (IPL) review of these references because of specific attributes of specific products or specific uses of Web addresses. If you know (or think you know) of questionable circumstances surrounding a non-IBM Web address that you want to use, contact your site IPL.-->
+<p>Any references in this information to non-IBM websites are provided
+for convenience only and do not in any manner serve as an endorsement
+of those websites. The materials at those websites are not part of
+the materials for this <tm tmtype="reg" trademark="IBM">IBM</tm> product
+and use of those websites is at your own risk. </p>
+<!--All information: This paragraph is required to inform readers that any information that they submit to IBM becomes the property of IBM. -->
+<p><tm tmtype="reg" trademark="IBM">IBM</tm> may use or distribute
+any of the information you supply in any way it believes appropriate
+without incurring any obligation to you.</p>
+<!--Software information only: Use the appropriate local legal department address, but do not indicate that it is the legal department. -->
+<p>Licensees of this program who wish to have information about it for the purpose of enabling: (i)
+the exchange of information between independently created programs and other programs (including
+this one) and (ii) the mutual use of the information which has been exchanged, should contact:
+<lines>IBM Corporation
+B1WA LKG1
+550 King Street
+Littleton, MA 01460-1250
+U.S.A.
+</lines></p>
+<p>Such information may be available, subject to appropriate terms
+and conditions, including in some cases, payment of a fee. </p>
+<p>The licensed program described in this document and all licensed
+material available for it are provided by <tm tmtype="reg"
+trademark="IBM">IBM</tm> under terms of the <tm tmtype="reg"
+trademark="IBM">IBM</tm> Customer Agreement, <tm tmtype="reg"
+trademark="IBM">IBM</tm> International Program License Agreement or
+any equivalent agreement between us.</p>
+<!--All information: Performance Data/Benchmark Statements. Use these statements in all documents that contain performance data. -->
+<p>Any performance data contained herein was determined in a controlled
+environment. Therefore, the results obtained in other operating environments
+may vary significantly. Some measurements may have been made on development-level
+systems and there is no guarantee that these measurements will be
+the same on generally available systems. Furthermore, some measurements
+may have been estimated through extrapolation. Actual results may
+vary. Users of this document should verify the applicable data for
+their specific environment. </p>
+<!--All information: Non-IBM Product Statements. Use the following in all documents that contain information about non-IBM products.-->
+<p>Information concerning non-IBM products was obtained from the suppliers
+of those products, their published announcements or other publicly
+available sources. <tm tmtype="reg" trademark="IBM">IBM</tm> has not
+tested those products and cannot confirm the accuracy of performance,
+compatibility or any other claims related to non-IBM products. Questions
+on the capabilities of non-IBM products should be addressed to the
+suppliers of those products. </p>
+<!--All information: Statement of Direction/Intent. Use the following text in all documents that contain statements about future direction or intent. -->
+<p>All statements regarding IBM's future direction or intent are subject
+to change or withdrawal without notice, and represent goals and objectives
+only. </p>
+<!--All information: Price Statements. Use the following text in all documents that contain information about the prices of products. -->
+<p>All <tm tmtype="reg" trademark="IBM">IBM</tm> prices shown are
+IBM's suggested retail prices, are current and are subject to change
+without notice. Dealer prices may vary. </p>
+<!--All information: Examples of Data and Reports Statements. Use the following text in all documents that contain examples that use fictitious names. -->
+<p>This information contains examples of data and reports used in
+daily business operations. To illustrate them as completely as possible,
+the examples include the names of individuals, companies, brands,
+and products. All of these names are fictitious and any similarity
+to the names and addresses used by an actual business enterprise is
+entirely coincidental. </p>
+<!--Software (programming) information: Programming Examples Statements. Use the following text in all documents that contain code samples. If each code sample has an IBM Copyright, those notices are to be retained. Ensure that IBM really owns the code and that the owner (even if an IBM employee) knows that code is in the book. -->
+<p>COPYRIGHT LICENSE: </p>
+<p>This information contains sample application programs in source
+language, which illustrate programming techniques on various operating
+platforms. You may copy, modify, and distribute these sample programs
+in any form without payment to <tm tmtype="reg" trademark="IBM">IBM</tm>,
+for the purposes of developing, using, marketing or distributing application
+programs conforming to the application programming interface for the
+operating platform for which the sample programs are written. These
+examples have not been thoroughly tested under all conditions. <tm
+tmtype="reg" trademark="IBM">IBM</tm>, therefore, cannot guarantee
+or imply reliability, serviceability, or function of these programs.
+The sample programs are provided "AS IS", without warranty of any
+kind. <tm tmtype="reg" trademark="IBM">IBM</tm> shall not be liable
+for any damages arising out of your use of the sample programs.</p>
+<!--Software (programming) information: Additional Wording for Large or Complex Samples. If samples are complex and the developers want IBM to be acknowledged as the source, include the information in the following paragraph. If you have questions, contact your local IPL group. -->
+<!--<p>Each copy or any portion of these sample programs or any derivative
+work, must include a copyright notice as follows: </p>
+<p>© your company name) (year). Portions of this code are derived
+from <tm tmclass="IGNORE" tmtype="reg" trademark="IBM">IBM</tm> Corp.
+Sample Programs. </p>
+<p>© Copyright <tm tmclass="IGNORE" tmtype="reg" trademark="IBM">IBM</tm> Corp.
+_enter the year or years_. All rights reserved. </p>-->
+<!--All information: Viewing in Softcopy Statements. Use the following text in all documents containing photographs or color illustrations that might not appear when the document is viewed online. -->
+<p>If you are viewing this information softcopy, the photographs and
+color illustrations may not appear. </p>
+</conbody>
+<concept id="trademarks" xml:lang="en-us">
+<title>Trademarks</title>
+<conbody>
+<!-- The official IBM trademark guidelines are available at https://w3-03.ibm.com/chq/legal/lis.nsf/lawdocsearchview/C1DAD1EEC3BDDFE485257459004F0435?OpenDocument. Always check that for the most accurate information.-->
+<!--This is a sample only.  Your text should match the text that is officially maintained at https://w3-03.ibm.com/chq/legal/lis.nsf/lawdocsearchview/2447B77171176CFB8525745E006052F5?OpenDocument-->
+<p><tm tmtype="reg" trademark="IBM">IBM</tm>, the <tm tmtype="reg"
+trademark="IBM">IBM</tm> logo, and <tm tmtype="reg" trademark="ibm.com">ibm.com</tm> are
+trademarks or registered trademarks of International Business Machines
+Corp., registered in many jurisdictions worldwide. Other product and
+service names might be trademarks of <tm tmtype="reg" trademark="IBM">IBM</tm> or
+other companies. A current list of <tm tmtype="reg" trademark="IBM">IBM</tm> trademarks
+is available on the Web at <q><xref format="html"
+href="http://www.ibm.com/legal/copytrade.shtml" scope="external">Copyright
+and trademark information</xref></q> at www.ibm.com/legal/copytrade.shtml.</p>
+<!--Be sure to use the marks in regular
+type form and in a truthful manner. Do not use a design trademark or logo
+of another company, without first obtaining the express written permission
+from that company.-->
+<!--Your trademark attribution statement must include paragraphs for any of the companies with whom IBM has special contracts regarding specific trademarked terms. -->
+<!--These terms, and their associated paragraphs, are listed at "Special attributions"; http://www.ibm.com/legal/copytrade.shtml#section-special. -->
+<!--Copy those paragraphs here and change as needed.-->
+<!--You need to include only the attribution for those trademarks that you actually use. Arrange the paragraphs in alphabetical order by company name.-->
+</conbody>
+</concept>
+<concept id="privacypolicy" xml:lang="en-us">
+<title>Privacy Policy and Terms of Use Considerations</title>
+<conbody>
+<p><tm tmtype="reg" trademark="IBM">IBM</tm> Software products, including
+software as a service solutions, ("Software Offerings") may use cookies
+or other technologies to collect product usage information, to help
+improve the end user experience, to tailor interactions with the end
+user or for other purposes.  A cookie is a piece of data that a web
+site can send to your browser, which may then be stored on your computer
+as a tag that identifies your computer.  In many cases, no personal
+information is collected by these cookies.   If a Software Offering
+you are using enables you to collect personal information through
+cookies and similar technologies, we inform you about the specifics
+below. </p>
+<p>Depending upon the configurations deployed, this Software Offering
+may use session and persistent cookies that collect each user's user
+name, and other personal information for purposes of session management,
+enhanced user usability, or other usage tracking or functional purposes.
+ These cookies can be disabled, but disabling them will also eliminate
+the functionality they enable. </p>
+<p>Various jurisdictions regulate the collection of personal information
+through cookies and similar technologies. If the configurations deployed
+for this Software Offering provide you as customer the ability to
+collect personal information from end users via cookies and other
+technologies, you should seek your own legal advice about any laws
+applicable to such data collection, including any requirements for
+providing notice and consent where appropriate.  </p>
+<p><tm tmtype="reg" trademark="IBM">IBM</tm> requires that Clients
+(1) provide a clear and conspicuous link to Customer's website terms
+of use (e.g. privacy policy) which includes a link to IBM's and Client's
+data collection and use practices, (2) notify that cookies and clear
+gifs/web beacons are being placed on the visitor's computer by <tm
+tmtype="reg" trademark="IBM">IBM</tm> on the Client's behalf  along
+with an explanation of the purpose of such technology, and (3) to
+the extent required by law, obtain consent from website visitors prior
+to the placement of cookies and clear gifs/web beacons placed by Client
+or <tm tmtype="reg" trademark="IBM">IBM</tm> on Client's behalf on
+website visitor's devices</p>
+<p>For more information about the use of various technologies, including
+cookies, for these purposes, See <tm tmtype="reg" trademark="IBM">IBM</tm>'s
+Online Privacy Statement at: http://www.ibm.com/privacy/details/us/en
+section entitled "Cookies, Web Beacons and Other Technologies."</p>
+</conbody>
+</concept>
+<?tm 1380666042 28?>
+</concept>
+<?Pub *0000015369?>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//IBM//DTD DITA IBM Task//EN" "ibm-task.dtd">
+<task id="creating_a_segment_from_channel_data" xml:lang="en-us">
+<title>Creating a segment from a row of channel data</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc>You can save a segment that is composed of customers who completed specific actions
+within a channel.</shortdesc>
+<!--To optimize PDF retrievability, add prolog and indexing tags that help crystalize why users should be looking up this topic (purpose, task, and what they will learn)-->
+<!--<prolog><metadata><keywords><indexterm></indexterm></keywords></metadata></prolog>-->
+<taskbody>
+<context>
+<p/>
+</context>
+<steps>
+<step>
+<cmd>Click the <uicontrol>Report status</uicontrol> menu in the top navigation bar.</cmd>
+</step>
+<step>
+<cmd>Select the report that you want to open.</cmd>
+</step>
+<step>
+<cmd>To access the <uicontrol>Expanded</uicontrol> view of a path, click one of the channel icons in
+the path, or click <uicontrol>Options</uicontrol> and select <uicontrol>Expanded view</uicontrol>
+from the <uicontrol>Actions</uicontrol> menu.</cmd>
+</step>
+<step>
+<cmd>Click an event node in the <uicontrol>Aggregates</uicontrol> view.</cmd>
+</step>
+<step>
+<cmd>To create a segment from a row of channel data, click the menu icon next to the row.</cmd>
+</step>
+<step>
+<cmd>Select <uicontrol>Save segment</uicontrol>.</cmd>
+</step>
+<step>
+<cmd>Enter a name for the segment.</cmd>
+</step>
+<step>
+<cmd>Click <uicontrol>Save</uicontrol>.</cmd>
+</step>
+</steps>
+<result>The new segment is available from the <uicontrol>Segments</uicontrol> menu on the <wintitle>Path
+analysis</wintitle> page when you create a path report.</result>
+</taskbody>
+</task>

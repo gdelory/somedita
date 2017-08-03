@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//IBM//DTD DITA IBM Concept//EN" "ibm-concept.dtd">
+<concept id="path_views" xml:lang="en-us">
+<title>Path views</title>
+<!--To optimize search results, add tags that clarify product name, target platform, or other contexts. To enable the tags, right-click, select Refactoring > Toggle Comment.-->
+<!--<titlealts><navtitle></navtitle><searchtitle></searchtitle></titlealts>-->
+<!--Put your short description next; used for first paragraph and abstract.-->
+<shortdesc><keyword conref="../../Common/common_names.dita#conrefs/journey_analytics_short"/>
+provides three options for visualizing multi-channel customer paths: Separated view, Time-lapsed
+view, and Merged view.</shortdesc>
+<conbody>
+<section>
+<title>Separated view</title>
+<p>The Separated view of the paths in a report shows each path as a separate row in the report. Use
+this view to compare adjacent touch points across paths. This view is displayed by default when you
+open the report results.</p>
+</section>
+<section>
+<title>Time-lapsed view</title>
+<p>The Time-lapsed view shows the total duration of each path and the relative duration between
+touch points within the path.</p>
+</section>
+<section>
+<title>Merged view</title>
+<p>The Merged view shows when and how paths converge and diverge from each other.</p>
+</section>
+<!--Need details on viewing metrics and path sorting.-->
+</conbody>
+</concept>

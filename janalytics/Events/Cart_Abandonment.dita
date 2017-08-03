@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN" "ibm-reference.dtd">
+<reference id="cart_abandonment" xml:lang="en-us">
+<title>Cart Abandonment</title>
+<shortdesc>Information that describes an abandoned cart. If the entire cart is abandoned, then the
+cart is abandoned. There can be no items purchased in the session (interaction).</shortdesc>
+<refbody>
+<section>
+<p>Event code: <userinput>ibmcartAbandonment</userinput></p>
+<p>Publisher: <keyword conref="../../Common/common_names.dita#conrefs/core_long"/></p>
+</section>
+<section>
+<title>Event attributes</title>
+<table frame="all" id="table_rdn_rxk_kt" pgwide="1">
+<tgroup cols="5">
+<colspec colname="c1" colnum="1" colwidth="2.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<colspec colname="c3" colnum="3" colwidth="2.0*"/>
+<colspec colname="c4" colnum="4" colwidth="3.0*"/>
+<colspec colname="c5" colnum="5" colwidth="1.0*"/>
+<thead>
+<row>
+<entry align="center">Attribute Name</entry>
+<entry align="center">Data Type</entry>
+<entry align="center">Example</entry>
+<entry align="center">Description</entry>
+<entry align="center">Required</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Currency</entry>
+<entry>string</entry>
+<entry>EUR</entry>
+<entry>Type of currency.</entry>
+<entry/>
+</row>
+<row>
+<entry>Description</entry>
+<entry>string</entry>
+<entry>&lt;Text></entry>
+<entry>Description of the event to provide context for the event.</entry>
+<entry/>
+</row>
+<row>
+<entry>eventName</entry>
+<entry>string</entry>
+<entry>Aggregate Cart Abandonment</entry>
+<entry>
+<p>Name of the event</p>
+</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>interactionId</entry>
+<entry>integer</entry>
+<entry>12345</entry>
+<entry>
+<p>Unique identifier for a visit. Sometimes called a session ID.</p>
+</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>Order ID</entry>
+<entry>string</entry>
+<entry>5678</entry>
+<entry>Identifies a specific purchase.</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>Order Promo</entry>
+<entry>string</entry>
+<entry>AS678</entry>
+<entry>Promotional code/offer used at checkout.</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>Order Tax</entry>
+<entry>integer</entry>
+<entry>31.28</entry>
+<entry>Tax amount on the total cart order.</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>Order total</entry>
+<entry>number</entry>
+<entry>500.00</entry>
+<entry>Total amount (based on <userinput>basePrice</userinput> of each item abandoned) of the
+cart.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>orderDiscount</entry>
+<entry>integer</entry>
+<entry>150.00</entry>
+<entry>Amount that is deducted from order sub total.</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>orderShipping</entry>
+<entry>&lt;value></entry>
+<entry>number</entry>
+<entry>Amount of shipping added to total order.</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>orderSubtotal</entry>
+<entry>integer</entry>
+<entry>775.50</entry>
+<entry>Order amount before sales, discounts, tax, and any other charges.</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>productList</entry>
+<entry>string</entry>
+<entry>&lt;Comma separated list of product identifiers></entry>
+<entry>The product IDs of the abandoned items, separated by a comma.</entry>
+<entry/>
+</row>
+<row>
+<entry>quantity</entry>
+<entry>number</entry>
+<entry>10</entry>
+<entry>This is the total number of items abandoned in the cart.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>shippingType</entry>
+<entry>string</entry>
+<entry>Priority</entry>
+<entry>Shipping method selected by customer.</entry>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</refbody>
+</reference>

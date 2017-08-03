@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 1988-2011, v.4002--><!DOCTYPE ibmbook PUBLIC "-//IBM//DTD DITA IBM BookMap//EN" "..\..\dita\dtd\ibmbook.dtd">
+<?Pub Sty _display FontColor="red"?><ibmbook xml:lang="en-us" operatingsystem="AIX HP HPUX linux solaris WIN" product="SSWJ5W">
+<ibmbooktitle>
+<ibmbooklibrary> 			<titleline> </titleline> 			<titleline> </titleline> 		</ibmbooklibrary>
+<ibmmainbooktitle> 			<titleline> 				<keyword conref="../Common/common_names.dita#conrefs/journey_analytics_long" /></titleline> 			<titleline /> 		</ibmmainbooktitle>
+<ibmlibrarysubtitle />
+<ibmsubtitle> </ibmsubtitle>
+<ibmlibraryshorttitle> </ibmlibraryshorttitle>
+	<ibmshorttitle> 			<keyword conref="../Common/common_names.dita#conrefs/journey_analytics_long" /> User's
+Guide </ibmshorttitle>
+</ibmbooktitle>
+<bookmeta><?Pub Dtl?>
+<!--readers comment form-->
+<authorinformation id="rcf"><?Pub Dtl?>
+<organizationinfo><?Pub Dtl?><namedetails><?Pub Dtl?>
+<organizationnamedetails><?Pub Dtl?>
+<organizationname><?Pub Dtl?> 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							<tm trademark="IBM" tmtype="reg">IBM</tm></organizationname>
+</organizationnamedetails></namedetails>
+<addressdetails><?Pub Dtl?> 					 					 					 					 					 					 					
+					 					 					 					 					 					 					 					 					 					 					
+					 					 					 					 					ATTN: Dept 542<thoroughfare><?Pub Dtl?> 						
+						 						 						 						 						 						 						 						 						 						
+						 						 						 						 						 						 						 						 						 						
+						 						3905 37th Street NW</thoroughfare> 					<locality><?Pub Dtl?> 						
+						 						 						 						 						 						 						 						 						 						
+						 						 						 						 						 						 						 						 						 						
+						 						Rochester, MN<postalcode><?Pub Dtl?> 							 							
+							 							 							 							 							 							 							 							 							
+							 							 							 							 							 							 							 							 							
+							 							 							55901-6666</postalcode> 					</locality> 					<country><?Pub Dtl?> 						
+						 						 						 						 						 						 						 						 						 						
+						 						 						 						 						 						 						 						 						 						
+						 						USA</country> 				</addressdetails>
+<contactnumbers><?Pub Dtl?><contactnumber type="telephone"><?Pub Dtl?> 						
+						 						 						 						 						 						 						 						 						 						
+						 						 						 						 						 						 						 						 						 						
+						 						800-555-1212</contactnumber><contactnumber type="fax"><?Pub Dtl?> 						
+						 						 						 						 						 						 						 						 						 						
+						 						 						 						 						 						 						 						 						 						
+						 						800-555-1213</contactnumber></contactnumbers>
+<emailaddresses><?Pub Dtl?><emailaddress><?Pub Dtl?> 						 						
+						 						 						 						 						 						 						 						 						 						
+						 						 						 						 						 						 						 						 						 						
+						phred@us.ibm.com</emailaddress></emailaddresses><urls><?Pub Dtl?>
+<url><?Pub Dtl?> 						 						 						 						 						 						 						
+						 						 						 						 						 						 						 						 						 						
+						 						 						 						 						 						http://w3-03.ibm.com/ids/page/636</url>
+</urls></organizationinfo>
+</authorinformation>
+<audience />
+<category><?Pub Dtl?> 			 		</category>
+	<prodinfo><?Pub Dtl?><prodname><?Pub Dtl?> 				<keyword conref="../Common/common_names.dita#conrefs/journey_analytics_long"><?Pub Dtl?> 					
+				</keyword> 			</prodname>
+<vrmlist><?Pub Dtl?><vrm version=" " /></vrmlist>
+<platform><?Pub Dtl?> 				 				 				 				 				 				 				 				 				
+				 				 				 				 				 				 				 				 				 				 				January 2016</platform>
+</prodinfo>
+<bookid><?Pub Dtl?><bookpartno><?Pub Dtl?> 				 			</bookpartno>
+<edition><?Pub Dtl?> 				 			</edition><booknumber><?Pub Dtl?> 				
+			</booknumber></bookid>
+<bookrights><?Pub Dtl?><copyrfirst><?Pub Dtl?><year><?Pub Dtl?> 					
+					 					 					 					 					 					 					 					 					 					 					
+					 					 					 					 					 					 					 					 					 					2008</year>
+</copyrfirst><copyrlast><?Pub Dtl?><year><?Pub Dtl?> 2016</year></copyrlast>
+<bookowner><?Pub Dtl?><organization><?Pub Dtl?> 					 					 					
+					 					 					 					 					 					 					 					 					 					 					
+					 					 					 					 					 					 					 					 					IBM</organization>
+</bookowner></bookrights>
+</bookmeta>
+<ibmfrontmatter>
+<frontbooklists>
+<toc /></frontbooklists>
+</ibmfrontmatter>
+<!--Overview-->
+<chapter format="dita" href="Overview/overview_container.dita" navtitle="Overview" scope="local" activity="learn">
+<topicref format="dita" href="Overview/Journey_Analytics_overview.dita" navtitle="IBM Journey Analytics overview" scope="local" activity="learn">
+<topicref format="dita" href="Overview/key_concepts.dita" navtitle="Key concepts in Journey Analytics" scope="local" activity="learn">
+<topicref format="dita" href="Overview/customer_journeys.dita" navtitle="Customer journeys" scope="local" activity="learn"/>
+<topicref format="dita" href="Overview/events.dita" navtitle="Events" scope="local" activity="learn"/>
+<topicref format="dita" href="Overview/market_segments.dita" navtitle="Market segments" scope="local" activity="learn"/>
+</topicref>
+<topicref format="dita" href="Overview/path_analysis_workflow.dita" navtitle="Path analysis workflow" scope="local" activity="learn"/>
+<topicref format="dita" href="Overview/use_case_analyzing_customer_paths.dita" navtitle="Use case: Analyzing customer paths that led to a purchase" scope="local" activity="learn"/>
+</topicref>
+<topicref format="dita" href="Overview/supported_browsers.dita" navtitle="Supported browsers" scope="local" activity="learn"/>
+</chapter>
+<!--Reporting-->
+<chapter format="dita" href="Reporting/reporting_container.dita" navtitle="Analyzing" scope="local" activity="learn">
+<topicref format="dita" href="Reporting/path_reports.dita" navtitle="Path reports" scope="local" activity="learn">
+<!--<topicref format="dita" href="Reporting/market_segments.dita" navtitle="Market segments" scope="local" activity="learn"/>-->
+<topicref format="dita" href="Reporting/report_options.dita" navtitle="Report options" scope="local" activity="learn"/>
+<topicref format="dita" href="Reporting/start_and_end_touch_points.dita" navtitle="Start and end touch points" scope="local" activity="learn"/>
+<topicref format="dita" href="Reporting/look_forward_and_look_backward_ranges.dita" navtitle="Look-forward and look-backward ranges" scope="local" activity="learn"/>
+<topicref format="dita" href="Reporting/creating_path_reports.dita" navtitle="Creating path reports" scope="local" activity="learn"/>
+<topicref format="dita" href="Reporting/modifying_reports_that_return_no_data.dita" navtitle="Modifying reports that return no data" scope="local" activity="learn"/>
+</topicref>
+</chapter>
+<!--Analyzing-->
+<chapter format="dita" href="Analyzing/analyzing_container.dita" navtitle="Analyzing" scope="local" activity="learn">
+<topicref format="dita" href="Analyzing/visualizing_customer_paths.dita" navtitle="Visualizing customer paths" scope="local" activity="learn">
+<topicref format="dita" href="Analyzing/path_metrics.dita" navtitle="Path metrics" scope="local" activity="learn"/>
+<topicref format="dita" href="Analyzing/separated_view.dita" navtitle="Separated view" scope="local" activity="learn"/>
+<topicref format="dita" href="Analyzing/time-lapsed_view.dita" navtitle="Time-lapsed view" scope="local" activity="learn"/>
+<topicref format="dita" href="Analyzing/merged_view.dita" navtitle="Merged view" scope="local" activity="learn"/>
+<topicref format="dita" href="Analyzing/accessing_path_views.dita" navtitle="Accessing path views" scope="local" activity="learn">
+<topicref format="dita" href="Analyzing/creating_a_segment_from_full_results.dita" navtitle="Creating a segment from the full results of a path report" scope="local" activity="learn"/>
+</topicref>
+</topicref>
+<topicref format="dita" href="Analyzing/viewing_customer_behavior_within_a_channel.dita" navtitle="Viewing customer behavior within a channel" scope="local" activity="learn">
+<topicref format="dita" href="Analyzing/aggregate_views_of_channel_data.dita" navtitle="Aggregate views of channel data" scope="local" activity="learn"/>
+<topicref format="dita" href="Analyzing/channel_micro-paths.dita" navtitle="Channel micro-paths" scope="local" activity="learn"/>
+<topicref format="dita" href="Analyzing/accessing_expanded_channel_views.dita" navtitle="Accessing expanded channel views" scope="local" activity="learn">
+<topicref format="dita" href="Analyzing/creating_a_segment_from_channel_data.dita" navtitle="Creating a segment from a row of channel data" scope="local" activity="learn"/>
+</topicref>
+</topicref>
+</chapter>
+<appendix href="Events/events_container.dita" navtitle="Events reference" activity="learn">   
+<topicref href="Events/Abandoned_Conversion.dita" navtitle="Abandoned Conversion" activity="learn"/>
+<topicref href="Events/Cart_Abandonment.dita" navtitle="Cart Abandonment" activity="learn"/>
+<topicref href="Events/Cart_Purchase.dita" navtitle="Cart Purchase" activity="learn"/>
+<topicref href="Events/Conversion.dita" navtitle="Conversion" activity="learn"/>
+<topicref href="Events/Element.dita" navtitle="Element" activity="learn"/>
+<topicref href="Events/Element_Form_Error.dita" navtitle="Element Form Error" activity="learn"/>
+<topicref href="Events/Element_Product_Page_Action.dita" navtitle="Element Product Page Action" activity="learn"/>
+<topicref href="Events/Element_Product_Read_Review.dita" navtitle="Element Product Read Review" activity="learn"/>
+<topicref href="Events/Email_Bounce.dita" navtitle="Email Bounce" activity="learn"/>
+<topicref href="Events/Email_Click.dita" navtitle="Email Click" activity="learn"/>
+<topicref href="Events/Email_Open.dita" navtitle="Email Open" activity="learn"/>
+<topicref href="Events/Email_Opt_Out.dita" navtitle="Email Opt Out" activity="learn"/>
+<topicref href="Events/Email_Send.dita" navtitle="Email Send" activity="learn"/>
+<topicref href="Events/Page_View_Entry_Page.dita" navtitle="Page View Entry Page" activity="learn"/>
+<topicref href="Events/Registration.dita" navtitle="Registration" activity="learn"/>
+<topicref href="Events/Searched_Site.dita" navtitle="Searched Site" activity="learn"/>
+<topicref href="Events/Video_Completed.dita" navtitle="Video Completed" activity="learn"/>
+<topicref href="Events/Video_Launched.dita" navtitle="Video Launched" activity="learn"/>
+<topicref href="Events/Video_Paused.dita" navtitle="Video Paused" activity="learn"/>
+<topicref href="Events/Video_Played.dita" navtitle="Video Played" activity="learn"/>
+<topicref href="Events/Viewed_Product.dita" navtitle="Viewed Product" activity="learn"/>
+</appendix>
+<ibmbackmatter>
+<notices format="dita" href="../Common/booknotices.dita" navtitle="Notices" scope="local" />
+</ibmbackmatter>
+<reltable toc="no">
+<relheader>
+<relcolspec />
+<relcolspec />
+</relheader>
+<relrow>
+<relcell>
+<topicref format="dita" href="Overview/path_analysis_workflow.dita" navtitle="Path analysis workflow" scope="local" activity="learn"/></relcell>
+<relcell>
+<topicref format="dita" href="Reporting/path_reports.dita" navtitle="Path reports" scope="local" activity="learn"/>
+<topicref format="dita" href="Reporting/creating_path_reports.dita" navtitle="Creating path reports" scope="local" activity="learn"/>
+<topicref format="dita" href="Analyzing/visualizing_customer_paths.dita" navtitle="Visualizing customer paths" scope="local" activity="learn"/>
+<topicref format="dita" href="Analyzing/viewing_customer_behavior_within_a_channel.dita" navtitle="Viewing customer behavior within a channel" scope="local" activity="learn"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref format="dita" href="Reporting/creating_path_reports.dita" navtitle="Creating path reports" scope="local" activity="learn"/>
+</relcell>
+<relcell>
+<topicref format="dita" href="Reporting/modifying_reports_that_return_no_data.dita" navtitle="Modifying reports that return no data" scope="local" activity="learn"/>
+</relcell>
+</relrow>
+<relrow>
+<relcell>
+<topicref format="dita" href="Analyzing/accessing_path_views.dita" navtitle="Accessing path reports" scope="local" activity="learn"/>
+</relcell>
+<relcell>
+<topicref format="dita" href="Analyzing/separated_view.dita" navtitle="Separated view" scope="local" activity="learn"/>
+<topicref format="dita" href="Analyzing/time-lapsed_view.dita" navtitle="Time-lapsed view" scope="local" activity="learn"/>
+<topicref format="dita" href="Analyzing/merged_view.dita" navtitle="Merged view" scope="local" activity="learn"/>
+</relcell>
+</relrow>
+</reltable>
+</ibmbook><?Pub *0000026601?><?tm 1410383443754 1 IBM ?>

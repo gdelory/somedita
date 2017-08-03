@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//IBM//DTD DITA IBM Reference//EN" "ibm-reference.dtd">
+<reference id="cart_purchase_item" xml:lang="en-us">
+<title>Cart Purchase Item</title>
+<shortdesc>Information to describe an item that is purchased through a web site.</shortdesc>
+<refbody>
+<section>
+<p>Event code: <userinput>ibmcartPurchaseItem</userinput></p>
+<p>Publisher: <keyword conref="../../Common/common_names.dita#conrefs/core_long"/></p>
+</section>
+<section>
+<title>Event attributes</title>
+<table frame="all" id="table_zbl_xsk_kt" pgwide="1">
+<tgroup cols="5">
+<colspec colname="c1" colnum="1" colwidth="2.0*"/>
+<colspec colname="c2" colnum="2" colwidth="1.0*"/>
+<colspec colname="c3" colnum="3" colwidth="2.0*"/>
+<colspec colname="c4" colnum="4" colwidth="3.0*"/>
+<colspec colname="c5" colnum="5" colwidth="1.0*"/>
+<thead>
+<row>
+<entry align="center">Attribute Name</entry>
+<entry align="center">Data Type</entry>
+<entry align="center">Example </entry>
+<entry align="center">Description</entry>
+<entry align="center">Required</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>basePrice</entry>
+<entry>number</entry>
+<entry>75.00</entry>
+<entry>The price of the item purchased.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>cartTotal</entry>
+<entry>number</entry>
+<entry>625.50</entry>
+<entry>
+<p>Total order amount. </p>
+<p>Should not include shipping, but might include sales or discounts. This is the same amount as in
+<userinput>ibmcartPurchase</userinput>.</p>
+</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>category</entry>
+<entry>string</entry>
+<entry>Desks</entry>
+<entry>Allows grouping of products into categories. For example,
+<userinput>Desks</userinput>.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>color</entry>
+<entry>string</entry>
+<entry>blue</entry>
+<entry>Product color.</entry>
+<entry align="center"/>
+</row>
+<row>
+<entry>currency</entry>
+<entry>string</entry>
+<entry>EUR</entry>
+<entry>Type of currency.</entry>
+<entry/>
+</row>
+<row>
+<entry>description</entry>
+<entry>string</entry>
+<entry>&lt;Text></entry>
+<entry>Description of the event to provide context for the event.</entry>
+<entry/>
+</row>
+<row>
+<entry>eventName</entry>
+<entry>string</entry>
+<entry>Purchase item</entry>
+<entry>Name of the event as it appears in the UBX user interface.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>imageUrl</entry>
+<entry>URL</entry>
+<entry>&lt;product specific></entry>
+<entry>URL for the product image.</entry>
+<entry/>
+</row>
+<row>
+<entry>interactionId</entry>
+<entry>integer</entry>
+<entry>12345</entry>
+<entry>
+<p>Unique identifier for a visit. Sometimes called a session ID.</p>
+</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>offerCode</entry>
+<entry>string</entry>
+<entry>12345</entry>
+<entry>
+<p>Offer code used at checkout.</p>
+</entry>
+<entry/>
+</row>
+<row>
+<entry>orderDiscount</entry>
+<entry>number</entry>
+<entry>15.00</entry>
+<entry>Discounted amount from order sub total.</entry>
+<entry/>
+</row>
+<row>
+<entry>orderID</entry>
+<entry>string</entry>
+<entry>5678</entry>
+<entry>Identifies a specific purchase.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>productID</entry>
+<entry>string</entry>
+<entry>&lt;productID></entry>
+<entry>The product ID of the item purchased</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>productName</entry>
+<entry>string</entry>
+<entry>Student Desk</entry>
+<entry>The product name of the item purchased.</entry>
+<entry/>
+</row>
+<row>
+<entry>productUrl</entry>
+<entry>URL</entry>
+<entry/>
+<entry>URL for additional product information.</entry>
+<entry/>
+</row>
+<row>
+<entry>quantity</entry>
+<entry>number</entry>
+<entry>5</entry>
+<entry>Can be more than 1 if more than one of the same product is purchased.</entry>
+<entry align="center">Yes</entry>
+</row>
+<row>
+<entry>size</entry>
+<entry>string</entry>
+<entry>&lt;value&gt;</entry>
+<entry>Product size</entry>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</refbody>
+</reference>
